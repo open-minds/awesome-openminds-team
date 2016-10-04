@@ -2,21 +2,30 @@
 A collection of awesome useful and awesome links, resources and shiny things for our friends :smiley:  .
 * [Awesome Open Minds Team](https://github.com/open-minds/awesome-openminds-team#Awesome-Open-Minds-Team)
     * [MOOC Websites](#mooc-websites)
-    * [Freebies for students](#Freebies-for-students)
+    * [Freebies for students](#freebies-for-students)
     * [Good YouTube channels to follow]()
     * [Chosen tutorials](#chosen-tutorials)
+    * [Chosen Websites](#chosen-websites)
+        * [Studies](#studies)
+        * [eBooks](#ebooks)
+        * [Geeky websites](#geek-websites)
 
 ----
 
 ## MOOC websites
 *Platformes for learning awesome stuffs online*
 * English
-    * Udacity
-    * Free Code Camp
+    * [Udacity](http://udacity.com/)
+    * [Free Code Camp](http://freecodecamp.com/)
+    * [CodeCademy](http://codecademy.com/)
+    * [Udemy](https://www.udemy.com/)
+
 * Arabic
-    * Nadrus
+    * [Nadrus](http://nadrus.com/)
+    * [Coursat](http://www.coursat.org/)
 * French
-    * Openclassroom
+    * [Openclassrooms](http://openclassrooms.com/)
+    * [FUN](https://www.fun-mooc.fr/)
 
 ## Freebies for students
 *Because we love you*
@@ -38,3 +47,18 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * Français
     * [Grafikart.fr]()
     * [Les teacheurs du net]()
+
+## Choosen Websites
+### Studies
+* [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
+* [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science)
+* [Google: Guide to technical development ](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+## eBooks
+* [it-ebooks](http://it-ebooks.info/)
+* [LibreBooks](http://librebooks.org/)
+
+### Geeky websites
+* [Scotch.io](https://scotch.io)
+* [EggHead](https://egghead.io)
+* [SitePoint](https://www.sitepoint.com/)
