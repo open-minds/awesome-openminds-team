@@ -41,12 +41,12 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy) : Programming & Networking tutorials
     * [Free4Arab](https://www.youtube.com/user/Nourelhoda2011) : IT courses (CISCO, CEH, Compatia, RHCE...)
 * English
-    * [Derek Banas]()
-    * [The new Boston]()
-    * [DevTips]()
+    * [Derek Banas](https://www.youtube.com/user/derekbanas)
+    * [The new Boston](https://www.youtube.com/user/thenewboston)
+    * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 * Français
-    * [Grafikart.fr]()
-    * [Les teacheurs du net]()
+    * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
+    * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
 
 ## Choosen Websites
 ### Studies
