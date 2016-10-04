@@ -9,7 +9,10 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [Studies](#studies)
         * [eBooks](#ebooks)
         * [Geeky websites](#geek-websites)
-
+    * [Tools and Apps](#tools-and-apps)
+        * [IDEs](#ides)
+        * [Text editors](#text-editors)
+        * [Mobile Apps](#mobile-apps)
 ----
 
 ## MOOC websites
@@ -44,6 +47,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Abdullah Eid](https://www.youtube.com/user/abdullaheidtv) : Programming tutorials (One of the best JAVA tutorials)
     * [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy) : Programming & Networking tutorials
     * [Free4Arab](https://www.youtube.com/user/Nourelhoda2011) : IT courses (CISCO, CEH, Compatia, RHCE...)
+    * [EgyCoder](https://www.youtube.com/channel/UCmrvsMQhv5G7pWSDnLRwoJg)
+    * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
     * [The new Boston](https://www.youtube.com/user/thenewboston)
@@ -67,3 +72,17 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Scotch.io](https://scotch.io)
 * [EggHead](https://egghead.io)
 * [SitePoint](https://www.sitepoint.com/)
+
+## Tools and Apps
+### IDEs
+* [Intellij IDEA](https://www.jetbrains.com/idea/download/)
+* [PyCharm](https://www.jetbrains.com/pycharm-edu/)
+* [CodeBlocks](http://codeblocks.org/)
+
+### Text editors
+* [Atom](http://atom.io/)
+* [Brackets](http://brackets.io/)
+
+### Mobile Apps
+* [CamScanner](https://www.camscanner.com/user/download)
+* [SoloLearn](http://sololearn.com/)
