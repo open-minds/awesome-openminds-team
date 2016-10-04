@@ -63,6 +63,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science)
 * [Google: Guide to technical development ](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
+* [Cours, TDs, TPs, Examens de l'Université d'Oran 1](https://sites.google.com/site/weshare4student/home): par Khadidja BOUKREDIMI
 
 ## eBooks
 * [it-ebooks](http://it-ebooks.info/)
