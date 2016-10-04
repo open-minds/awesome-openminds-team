@@ -19,6 +19,10 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Free Code Camp](http://freecodecamp.com/)
     * [CodeCademy](http://codecademy.com/)
     * [Udemy](https://www.udemy.com/)
+    * [Coursera](http://coursera.org/)
+    * [Alison](http://alison.com/)
+    * [Edx](http://edx.org/)
+    * [CodeSchool](http://codeschool.com/)
 
 * Arabic
     * [Nadrus](http://nadrus.com/)
@@ -53,6 +57,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
 * [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science)
 * [Google: Guide to technical development ](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
 
 ## eBooks
 * [it-ebooks](http://it-ebooks.info/)
