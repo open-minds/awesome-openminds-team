@@ -68,6 +68,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 ## eBooks
 * [it-ebooks](http://it-ebooks.info/)
 * [LibreBooks](http://librebooks.org/)
+* [ebook-dl](http://ebook-dl.com/)
 
 ### Geeky websites
 * [Scotch.io](https://scotch.io)
