@@ -49,13 +49,20 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Free4Arab](https://www.youtube.com/user/Nourelhoda2011) : IT courses (CISCO, CEH, Compatia, RHCE...)
     * [EgyCoder](https://www.youtube.com/channel/UCmrvsMQhv5G7pWSDnLRwoJg)
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
+    * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
+    * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
     * [The new Boston](https://www.youtube.com/user/thenewboston)
     * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+    * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
+    * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
+    * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
+    * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
+    * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
 
 ## Choosen Websites
 ### Studies
