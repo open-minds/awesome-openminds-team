@@ -13,6 +13,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [IDEs](#ides)
         * [Text editors](#text-editors)
         * [Mobile Apps](#mobile-apps)
+
 ----
 
 ## MOOC websites
