@@ -3,12 +3,12 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Awesome Open Minds Team](https://github.com/open-minds/awesome-openminds-team#Awesome-Open-Minds-Team)
     * [MOOC Websites](#mooc-websites)
     * [Freebies for students](#freebies-for-students)
-    * [Good YouTube channels to follow]()
-    * [Chosen tutorials](#chosen-tutorials)
     * [Chosen Websites](#chosen-websites)
         * [Studies](#studies)
+        * [Learn to code](#learn-to-code)
         * [eBooks](#ebooks)
         * [Geeky websites](#geek-websites)
+        * [Good YouTube channels to follow](#good-youTube-channels)
     * [Tools and Apps](#tools-and-apps)
         * [IDEs](#ides)
         * [Text editors](#text-editors)
@@ -40,7 +40,37 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [JetBrains free students pack (All IDEs for free)](https://www.jetbrains.com/shop/eform/students)
 * [Atomic.io (free for students)](https://atomic.io/education/)
 
-## Good YouTube channels
+## Choosen Websites
+### Studies
+* [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
+* [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science)
+* [Google: Guide to technical development ](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
+* [Cours, TDs, TPs, Examens de l'Université d'Oran 1](https://sites.google.com/site/weshare4student/home): par Khadidja BOUKREDIMI
+
+### Learn to code
+* [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
+
+### eBooks
+* [it-ebooks](http://it-ebooks.info/)
+* [LibreBooks](http://librebooks.org/)
+* [ebook-dl](http://ebook-dl.com/)
+* [Library Genesis](http://gen.lib.rus.ec/)
+* [Free Book Spot](http://www.freebookspot.es/)
+* [Free Computer Books](http://freecomputerbooks.com/)
+* [FreeTechBooks](http://www.freetechbooks.com/)
+* [eBoook3000](http://www.ebook3000.com/)
+* [OnlineProgrammingBooks](http://www.onlineprogrammingbooks.com/)
+* [E-Books Directory](http://www.e-booksdirectory.com/)
+* [Free eBooks](http://books-pdf.blogspot.com/)
+
+
+### Geeky websites
+* [Scotch.io](https://scotch.io)
+* [EggHead](https://egghead.io)
+* [SitePoint](https://www.sitepoint.com/)
+
+### Good YouTube channels
 * Arabic
     * [ElZero WebSchool](https://www.youtube.com/user/OsamaElzero) : Wed design tutorials
     * [TheNewBaghdad](https://www.youtube.com/user/alxs1aa) : Programming & Software engineering tutorials
@@ -64,24 +94,6 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
     * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
 
-## Choosen Websites
-### Studies
-* [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
-* [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science)
-* [Google: Guide to technical development ](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-* [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
-* [Cours, TDs, TPs, Examens de l'Université d'Oran 1](https://sites.google.com/site/weshare4student/home): par Khadidja BOUKREDIMI
-
-## eBooks
-* [it-ebooks](http://it-ebooks.info/)
-* [LibreBooks](http://librebooks.org/)
-* [ebook-dl](http://ebook-dl.com/)
-
-### Geeky websites
-* [Scotch.io](https://scotch.io)
-* [EggHead](https://egghead.io)
-* [SitePoint](https://www.sitepoint.com/)
-
 ## Tools and Apps
 ### IDEs
 * [Intellij IDEA](https://www.jetbrains.com/idea/download/)
@@ -95,3 +107,4 @@ A collection of awesome useful and awesome links, resources and shiny things for
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
 * [SoloLearn](http://sololearn.com/)
+* [Evernote](https://appcenter.evernote.com/)
