@@ -110,3 +110,5 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [CamScanner](https://www.camscanner.com/user/download)
 * [SoloLearn](http://sololearn.com/)
 * [Evernote](https://appcenter.evernote.com/)
+* [Mimo](https://getmimo.com/): Learn how to code on your phone
+* [Lrn](http://lrnapp.com/): Learn to code at your convinience
