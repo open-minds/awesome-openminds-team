@@ -31,6 +31,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
+    * [Edraak](https://www.edraak.org/)
 * French
     * [Openclassrooms](http://openclassrooms.com/)
     * [FUN](https://www.fun-mooc.fr/)
@@ -105,6 +106,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 ### Text editors
 * [Atom](http://atom.io/)
 * [Brackets](http://brackets.io/)
+* [Sublime Text](https://www.sublimetext.com/)
 
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
