@@ -72,6 +72,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Scotch.io](https://scotch.io)
 * [EggHead](https://egghead.io)
 * [SitePoint](https://www.sitepoint.com/)
+* [FreeCodeCamp's articles on Medium](https://medium.freecodecamp.com/)
 
 ### Good YouTube channels
 * Arabic
