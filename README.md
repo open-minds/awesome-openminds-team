@@ -6,6 +6,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Chosen Websites](#chosen-websites)
         * [Studies](#studies)
         * [Learn to code](#learn-to-code)
+        * [Open Hardware](#open-hardware)
         * [eBooks](#ebooks)
         * [Geeky websites](#geek-websites)
         * [Good YouTube channels to follow](#good-youTube-channels)
@@ -54,6 +55,9 @@ A collection of awesome useful and awesome links, resources and shiny things for
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
 * [Tutorialspoint](www.tutorialspoint.com/)
+
+### Open Hardware
+* [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
 
 ### eBooks
 * [it-ebooks](http://it-ebooks.info/)
