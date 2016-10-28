@@ -58,6 +58,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
+* [S4A](http://s4a.cat/) Based on Scratch, learn, teach your kids Arduino
 
 ### eBooks
 * [it-ebooks](http://it-ebooks.info/)
