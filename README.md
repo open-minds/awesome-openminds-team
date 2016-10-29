@@ -92,6 +92,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
+    * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
+    
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
     * [The new Boston](https://www.youtube.com/user/thenewboston)
