@@ -33,6 +33,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
     * [Edraak](https://www.edraak.org/)
+    
 * French
     * [Openclassrooms](http://openclassrooms.com/)
     * [FUN](https://www.fun-mooc.fr/)
@@ -44,6 +45,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Atomic.io (free for students)](https://atomic.io/education/)
 
 ## Choosen Websites
+
 ### Studies
 * [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
 * [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science)
@@ -51,7 +53,6 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
 * [Cours, TDs, TPs, Examens de l'Université d'Oran 1](https://sites.google.com/site/weshare4student/home): par Khadidja BOUKREDIMI
 * [Exo7 Math](http://exo7.emath.fr/) Des cours, des exercices et des vidéos de mathématiques
-* [comment foncionne un ordinateur] (http://lehollandaisvolant.net/)
 
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
@@ -73,16 +74,19 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [OnlineProgrammingBooks](http://www.onlineprogrammingbooks.com/)
 * [E-Books Directory](http://www.e-booksdirectory.com/)
 * [Free eBooks](http://books-pdf.blogspot.com/)
+
 #### Programming eBooks
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
 * [C FR](https://drive.google.com/open?id=0B1IcqtFWVMxMOGMxdjZQc0lxajQ)
-
 
 ### Geeky websites
 * [Scotch.io](https://scotch.io)
 * [EggHead](https://egghead.io)
 * [SitePoint](https://www.sitepoint.com/)
 * [FreeCodeCamp's articles on Medium](https://medium.freecodecamp.com/)
+
+#### Français
+* [Le Hollandais Volant](http://lehollandaisvolant.net/) Astuces et tutoriels informatique
 
 ### Good YouTube channels
 * Arabic
@@ -105,12 +109,14 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
+    
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
     * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
 
 ## Tools and Apps
+
 ### IDEs
 * [Intellij IDEA](https://www.jetbrains.com/idea/download/)
 * [PyCharm](https://www.jetbrains.com/pycharm-edu/)
