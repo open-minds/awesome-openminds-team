@@ -74,7 +74,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [E-Books Directory](http://www.e-booksdirectory.com/)
 * [Free eBooks](http://books-pdf.blogspot.com/)
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
-* [C](https://drive.google.com/open?id=0B1IcqtFWVMxMOGMxdjZQc0lxajQ)
+* [C FR](https://drive.google.com/open?id=0B1IcqtFWVMxMOGMxdjZQc0lxajQ)
 
 
 ### Geeky websites
