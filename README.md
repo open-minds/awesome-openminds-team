@@ -33,7 +33,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
     * [Edraak](https://www.edraak.org/)
-    
+
 * French
     * [Openclassrooms](http://openclassrooms.com/)
     * [FUN](https://www.fun-mooc.fr/)
@@ -54,6 +54,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Cours, TDs, TPs, Examens de l'Université d'Oran 1](https://sites.google.com/site/weshare4student/home): par Khadidja BOUKREDIMI
 * [Exo7 Math](http://exo7.emath.fr/) Des cours, des exercices et des vidéos de mathématiques
 * [Saïd Chermak](https://www.youtube.com/user/infomaths) Cours de mathématiques, probabilitéss ...
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)  List of Computer Science courses with video lectures
 
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
@@ -101,7 +102,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
-    
+
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
     * [The new Boston](https://www.youtube.com/user/thenewboston)
@@ -110,7 +111,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
-    
+
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
