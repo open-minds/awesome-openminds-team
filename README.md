@@ -87,6 +87,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [EggHead](https://egghead.io)
 * [SitePoint](https://www.sitepoint.com/)
 * [FreeCodeCamp's articles on Medium](https://medium.freecodecamp.com/)
+* [CSS Reference](http://cssreference.io/) a free visual guide to CSS
 
 #### Français
 * [Le Hollandais Volant](http://lehollandaisvolant.net/) Astuces et tutoriels informatique
