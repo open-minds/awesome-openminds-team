@@ -122,8 +122,15 @@ A collection of awesome useful and awesome links, resources and shiny things for
 ## Tools and Apps
 
 ### IDEs
-* [Intellij IDEA](https://www.jetbrains.com/idea/download/)
-* [PyCharm](https://www.jetbrains.com/pycharm-edu/)
+* JetBrains' Intellij IDEs
+  * [IDEA](https://www.jetbrains.com/idea/) (Java)
+  * [WebStorm](https://www.jetbrains.com/webstorm/) (JavaScript -including Node.js- & frontend technologies, Go)
+  * [PyCharm](https://www.jetbrains.com/pycharm-edu/) (Python)
+  * [PhpStorm](https://www.jetbrains.com/phpstorm/) (PHP web development)
+  * [Clion](https://www.jetbrains.com/clion/) (C/C++)
+  * [RubyMine](https://www.jetbrains.com/ruby/) (Ruby)
+  * [ReShaper](https://www.jetbrains.com/resharper/) (.NET)
+  * [DataGrip](https://www.jetbrains.com/datagrip/) (Databases)
 * [CodeBlocks](http://codeblocks.org/)
 
 ### Text editors
