@@ -44,7 +44,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [JetBrains free students pack (All IDEs for free)](https://www.jetbrains.com/shop/eform/students)
 * [Atomic.io (free for students)](https://atomic.io/education/)
 
-## Choosen Websites
+## Chosen Websites
 
 ### Studies
 * [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
