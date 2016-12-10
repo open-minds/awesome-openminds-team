@@ -55,6 +55,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Exo7 Math](http://exo7.emath.fr/) Des cours, des exercices et des vidéos de mathématiques
 * [Saïd Chermak](https://www.youtube.com/user/infomaths) Cours de mathématiques, probabilitéss ...
 * [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)  List of Computer Science courses with video lectures
+* [Awesome CS courses](https://github.com/prakhar1989/awesome-courses)
+* [Math, sciences, physics video courses](https://github.com/Developer-Y/math-science-video-lectures)
 
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
