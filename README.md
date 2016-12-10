@@ -60,6 +60,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
 * [Tutorialspoint](www.tutorialspoint.com/)
 * [Enlight](https://enlight.ml/) learn to </> by building projects
+* [The Odin Project](http://www.theodinproject.com/)
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
