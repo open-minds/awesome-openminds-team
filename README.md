@@ -66,6 +66,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Enlight](https://enlight.ml/) learn to </> by building projects
 * [The Odin Project](http://www.theodinproject.com/)
 * [Superhero.js](http://superherojs.com/)
+* [DevDocs](http://devdocs.io/) multiple API documentations
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
