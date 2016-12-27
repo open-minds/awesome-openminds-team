@@ -96,6 +96,11 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [FreeCodeCamp's articles on Medium](https://medium.freecodecamp.com/)
 * [CSS Reference](http://cssreference.io/) a free visual guide to CSS
 * [uxdesign.cc](https://uxdesign.cc/) User Experience, Usability, Product Design
+* #### Challenges
+   * [Leet Code](https://leetcode.com/problemset/algorithms/)
+   * [Hacker Rank](https://www.hackerrank.com/)
+   * [Project Euler](https://projecteuler.net/archives)
+
 
 #### Français
 * [Le Hollandais Volant](http://lehollandaisvolant.net/) Astuces et tutoriels informatique
