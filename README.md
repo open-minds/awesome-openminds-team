@@ -68,6 +68,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [The Odin Project](http://www.theodinproject.com/)
 * [Superhero.js](http://superherojs.com/)
 * [DevDocs](http://devdocs.io/) multiple API documentations
+* [PyVideo](http://pyvideo.org/) Collection of python videos
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
