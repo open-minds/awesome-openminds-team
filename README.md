@@ -44,6 +44,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Github Student pack](https://education.github.com/)
 * [JetBrains free students pack (All IDEs for free)](https://www.jetbrains.com/shop/eform/students)
 * [Atomic.io (free for students)](https://atomic.io/education/)
+* [indico](https://indico.io/non-commercial) API for text and image analysis.
 
 ## Chosen Websites
 
