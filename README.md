@@ -138,6 +138,10 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
     * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
 
+### Awesome repositories
+* Game design
+   * [AwesomeJetLight]()
+
 ## Tools and Apps
 
 ### IDEs
