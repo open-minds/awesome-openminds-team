@@ -89,6 +89,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [E-Books Directory](http://www.e-booksdirectory.com/)
 * [Free eBooks](http://books-pdf.blogspot.com/)
 * [All IT eBooks](http://www.allitebooks.com/)
+* [B-OK](http://b-ok.org/)
 
 #### Programming eBooks
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
