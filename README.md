@@ -108,6 +108,10 @@ A collection of awesome useful and awesome links, resources and shiny things for
    * [Leet Code](https://leetcode.com/problemset/algorithms/)
    * [Hacker Rank](https://www.hackerrank.com/)
    * [Project Euler](https://projecteuler.net/archives)
+   * [Code Wars](https://www.codewars.com/)
+
+#### CTF(Capture The Flag- Security Challenges)
+   * [Root Me](https://www.root-me.org/)
 
 #### Français
 * [Le Hollandais Volant](http://lehollandaisvolant.net/) Astuces et tutoriels informatique
@@ -142,7 +146,9 @@ A collection of awesome useful and awesome links, resources and shiny things for
 ### Awesome repositories
 * Game design
    * [AwesomeJetLight]()
-
+* Curriculum Vitae Template
+   * [CV Template with Latex](https://github.com/saidziani/CV-Template)
+   
 ## Tools and Apps
 
 ### IDEs
