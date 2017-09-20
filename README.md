@@ -8,7 +8,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [Learn to code](#learn-to-code)
         * [Open Hardware](#open-hardware)
         * [eBooks](#ebooks)
-        * [Geeky websites](#geek-websites)
+        * [Geeky websites](#geeky-websites)
             * [Challenges](#challenges)
         * [Good YouTube channels to follow](#good-youTube-channels)
     * [Tools and Apps](#tools-and-apps)
@@ -103,6 +103,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [CSS Reference](http://cssreference.io/) a free visual guide to CSS
 * [uxdesign.cc](https://uxdesign.cc/) User Experience, Usability, Product Design
 * [OverAPI.com](http://overapi.com/) Collecting All Cheat Sheets
+* [The list for web designers](https://www.designerslist.info/) A complete toolkit for web designers, wireframes, tutorials, blogs, tools, stock photos, fonts, color schemes, icons...
 
 #### Challenges
    * [Leet Code](https://leetcode.com/problemset/algorithms/)
