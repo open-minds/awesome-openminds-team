@@ -138,6 +138,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
+    * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
