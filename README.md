@@ -171,6 +171,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Atom](http://atom.io/)
 * [Brackets](http://brackets.io/)
 * [Sublime Text](https://www.sublimetext.com/)
+* [Vim](https://vim.sourceforge.io/)
 * [Visual Studio Code](https://code.visualstudio.com)
 
 ### Mobile Apps
