@@ -71,6 +71,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Superhero.js](http://superherojs.com/)
 * [DevDocs](http://devdocs.io/) multiple API documentations
 * [PyVideo](http://pyvideo.org/) Collection of python videos
+* [Nodeschool](https://nodeschool.io/#workshoppers) Learn Node from the command line
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
