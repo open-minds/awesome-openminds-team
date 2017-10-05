@@ -110,6 +110,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
    * [Hacker Rank](https://www.hackerrank.com/)
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
+   * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
