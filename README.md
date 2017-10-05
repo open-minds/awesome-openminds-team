@@ -72,6 +72,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [PyVideo](http://pyvideo.org/) Collection of python videos
 * [Nodeschool](https://nodeschool.io/#workshoppers) Learn Node from the command line
 * [Video2brain](https://www.video2brain.com/) Courses online, focus on programming, animation, design, marketing and enterprise software
+* [Platzi](https://platzi.com/) Learn technology with live classes and real-time interaction
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
