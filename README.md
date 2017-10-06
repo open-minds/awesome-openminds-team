@@ -30,6 +30,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Alison](http://alison.com/)
     * [Edx](http://edx.org/)
     * [CodeSchool](http://codeschool.com/)
+    * [Pluralsight](https://www.pluralsight.com/)
 
 * Arabic
     * [Nadrus](http://nadrus.com/)
