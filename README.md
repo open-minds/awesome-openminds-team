@@ -63,7 +63,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Awesome CS courses](https://github.com/prakhar1989/awesome-courses)
 * [Math, sciences, physics video courses](https://github.com/Developer-Y/math-science-video-lectures)
 * [Mathrix Videoa](https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg/featured) Des cours et exercices vidéos corrigés pour réviser ton programme de collège et brevet ou lycée et bac.
-* [Ency education] (http://www.univ.ency-education.com/) 
+* [Ency education](http://www.univ.ency-education.com/) 
 vous trouverez sur cette plateform des cours et examens qui vous accompagnerons tout au long de votre cursus (Math ou Informatique )
 
 ### Learn to code
