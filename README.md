@@ -155,7 +155,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 ### Awesome repositories
 * Game design
-   * [AwesomeJetLight]()
+   * [AwesomeJetLight](https://github.com/JetLightStudio/AwesomeJetLight)
 * Curriculum Vitae Template
    * [CV Template with Latex](https://github.com/saidziani/CV-Template)
 
