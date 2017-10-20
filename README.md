@@ -83,6 +83,13 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
 * [S4A](http://s4a.cat/) Based on Scratch, learn, teach your kids Arduino
 
+###Design
+* English
+    * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
+    * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
+* Arabic
+    * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
+
 ### eBooks
 * [it-ebooks](http://it-ebooks.info/)
 * [LibreBooks](http://librebooks.org/)
@@ -136,7 +143,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [EgyCoder](https://www.youtube.com/channel/UCmrvsMQhv5G7pWSDnLRwoJg)
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
-    * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
 
 * English
@@ -145,8 +151,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
-    * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
-    * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
     * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
 
 * Français
@@ -156,7 +160,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 ### Awesome repositories
 * Game design
-   * [AwesomeJetLight]()
+   * [AwesomeJetLight](https://github.com/JetLightStudio/AwesomeJetLight)
 * Curriculum Vitae Template
    * [CV Template with Latex](https://github.com/saidziani/CV-Template)
 
