@@ -118,6 +118,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
+   * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education,
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
