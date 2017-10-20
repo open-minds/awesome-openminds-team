@@ -6,7 +6,9 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Chosen Websites](#chosen-websites)
         * [Studies](#studies)
         * [Learn to code](#learn-to-code)
+        * [Learn Data Science](#learn-data-science)
         * [Open Hardware](#open-hardware)
+        * [Design](#design)
         * [eBooks](#ebooks)
         * [Geeky websites](#geeky-websites)
             * [Challenges](#challenges)
@@ -86,7 +88,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
 * [S4A](http://s4a.cat/) Based on Scratch, learn, teach your kids Arduino
 
-###Design
+### Design
 * English
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
