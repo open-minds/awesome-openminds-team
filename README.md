@@ -79,6 +79,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Video2brain](https://www.video2brain.com/) Courses online, focus on programming, animation, design, marketing and enterprise software
 * [Platzi](https://platzi.com/) Learn technology with live classes and real-time interaction
 
+### Learn Data Science
+* [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
+
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
 * [S4A](http://s4a.cat/) Based on Scratch, learn, teach your kids Arduino
@@ -125,6 +128,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
+   
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
