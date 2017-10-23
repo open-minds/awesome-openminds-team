@@ -190,6 +190,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Sublime Text](https://www.sublimetext.com/)
 * [Vim](https://vim.sourceforge.io/)
 * [Visual Studio Code](https://code.visualstudio.com)
+* [MonoDevelop](http://www.monodevelop.com/download/)
 
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
