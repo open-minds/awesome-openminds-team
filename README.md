@@ -157,6 +157,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
     * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
+    * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
@@ -189,6 +190,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Sublime Text](https://www.sublimetext.com/)
 * [Vim](https://vim.sourceforge.io/)
 * [Visual Studio Code](https://code.visualstudio.com)
+* [MonoDevelop](http://www.monodevelop.com/download/)
 
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
