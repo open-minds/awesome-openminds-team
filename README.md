@@ -179,8 +179,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
   * [PyCharm](https://www.jetbrains.com/pycharm-edu/) (Python)
   * [PhpStorm](https://www.jetbrains.com/phpstorm/) (PHP web development)
   * [Clion](https://www.jetbrains.com/clion/) (C/C++)
+  * [Rider](https://www.jetbrains.com/rider/) (C#/ASP.NET/F#)
   * [RubyMine](https://www.jetbrains.com/ruby/) (Ruby)
-  * [ReShaper](https://www.jetbrains.com/resharper/) (.NET)
   * [DataGrip](https://www.jetbrains.com/datagrip/) (Databases)
 * [CodeBlocks](http://codeblocks.org/)
 
