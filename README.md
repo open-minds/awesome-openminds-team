@@ -35,6 +35,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Pluralsight](https://www.pluralsight.com/)
     * [Linda](https://www.lynda.com/)
     * [Sololearn](https://www.sololearn.com/)
+    * [Khan Academy](https://www.khanacademy.org/computing)
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
