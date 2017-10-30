@@ -6,7 +6,9 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Chosen Websites](#chosen-websites)
         * [Studies](#studies)
         * [Learn to code](#learn-to-code)
+        * [Learn Data Science](#learn-data-science)
         * [Open Hardware](#open-hardware)
+        * [Design](#design)
         * [eBooks](#ebooks)
         * [Geeky websites](#geeky-websites)
             * [Challenges](#challenges)
@@ -33,6 +35,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Pluralsight](https://www.pluralsight.com/)
     * [Linda](https://www.lynda.com/)
     * [Sololearn](https://www.sololearn.com/)
+    * [Khan Academy](https://www.khanacademy.org/computing)
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
@@ -64,8 +67,9 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Awesome CS courses](https://github.com/prakhar1989/awesome-courses)
 * [Math, sciences, physics video courses](https://github.com/Developer-Y/math-science-video-lectures)
 * [Mathrix Videoa](https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg/featured) Des cours et exercices vidéos corrigés pour réviser ton programme de collège et brevet ou lycée et bac.
-* [Ency education] (http://www.univ.ency-education.com/) 
+* [Ency education](http://www.univ.ency-education.com/)
 vous trouverez sur cette plateform des cours et examens qui vous accompagnerons tout au long de votre cursus (Math ou Informatique )
+* [Université en ligne](http://uel.unisciel.fr/) Coherent selection of resources & Multimedia for students.
 
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
@@ -79,9 +83,19 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Video2brain](https://www.video2brain.com/) Courses online, focus on programming, animation, design, marketing and enterprise software
 * [Platzi](https://platzi.com/) Learn technology with live classes and real-time interaction
 
+### Learn Data Science
+* [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
+
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
 * [S4A](http://s4a.cat/) Based on Scratch, learn, teach your kids Arduino
+
+### Design
+* English
+    * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
+    * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
+* Arabic
+    * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
 ### eBooks
 * [it-ebooks](http://it-ebooks.info/)
@@ -118,6 +132,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
+   
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
@@ -135,7 +150,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [EgyCoder](https://www.youtube.com/channel/UCmrvsMQhv5G7pWSDnLRwoJg)
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
-    * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
 
 * English
@@ -144,10 +158,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
-    * [Sentdex](https://www.youtube.com/user/sentdex)
-    * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
-    * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
     * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
+    * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
+    * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
@@ -156,10 +169,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 ### Awesome repositories
 * Game design
-   * [AwesomeJetLight]()
+   * [AwesomeJetLight](https://github.com/JetLightStudio/AwesomeJetLight)
 * Curriculum Vitae Template
    * [CV Template with Latex](https://github.com/saidziani/CV-Template)
-   
+
 ## Tools and Apps
 
 ### IDEs
@@ -169,8 +182,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
   * [PyCharm](https://www.jetbrains.com/pycharm-edu/) (Python)
   * [PhpStorm](https://www.jetbrains.com/phpstorm/) (PHP web development)
   * [Clion](https://www.jetbrains.com/clion/) (C/C++)
+  * [Rider](https://www.jetbrains.com/rider/) (C#/ASP.NET/F#)
   * [RubyMine](https://www.jetbrains.com/ruby/) (Ruby)
-  * [ReShaper](https://www.jetbrains.com/resharper/) (.NET)
   * [DataGrip](https://www.jetbrains.com/datagrip/) (Databases)
 * [CodeBlocks](http://codeblocks.org/)
 
@@ -180,6 +193,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Sublime Text](https://www.sublimetext.com/)
 * [Vim](https://vim.sourceforge.io/)
 * [Visual Studio Code](https://code.visualstudio.com)
+* [MonoDevelop](http://www.monodevelop.com/download/)
 
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
