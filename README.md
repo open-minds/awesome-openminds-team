@@ -40,6 +40,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
     * [Edraak](https://www.edraak.org/)
+    * [Rwaq](https://www.rwaq.org/)
 
 * French
     * [Openclassrooms](http://openclassrooms.com/)
@@ -159,6 +160,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
     * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
     * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
+    * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
