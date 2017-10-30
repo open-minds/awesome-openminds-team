@@ -37,6 +37,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
     * [Edraak](https://www.edraak.org/)
+    * [Rwaq](https://www.rwaq.org/)
 
 * French
     * [Openclassrooms](http://openclassrooms.com/)
@@ -143,6 +144,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
+    * [Sentdex](https://www.youtube.com/user/sentdex)
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
     * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
