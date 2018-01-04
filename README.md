@@ -111,6 +111,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Free eBooks](http://books-pdf.blogspot.com/)
 * [All IT eBooks](http://www.allitebooks.com/)
 * [B-OK](http://b-ok.org/)
+* [forcoder.org](http://forcoder.org/) IT ebooks and e-Learning videos for download
 
 #### Programming eBooks
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
