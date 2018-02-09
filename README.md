@@ -74,7 +74,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
 * [Tutorialspoint](www.tutorialspoint.com/)
-* [Enlight](https://enlight.ml/) learn to </> by building projects
+* [Enlight](https://enlight.nyc/) learn to </> by building projects
 * [The Odin Project](http://www.theodinproject.com/)
 * [Superhero.js](http://superherojs.com/)
 * [DevDocs](http://devdocs.io/) multiple API documentations
