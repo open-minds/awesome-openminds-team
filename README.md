@@ -83,6 +83,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Nodeschool](https://nodeschool.io/#workshoppers) Learn Node from the command line
 * [Video2brain](https://www.video2brain.com/) Courses online, focus on programming, animation, design, marketing and enterprise software
 * [Platzi](https://platzi.com/) Learn technology with live classes and real-time interaction
+* [Gitignore.io](https://www.gitignore.io) Create Useful .gitignore Files For Your Projects
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
