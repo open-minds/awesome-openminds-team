@@ -13,6 +13,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [Geeky websites](#geeky-websites)
             * [Challenges](#challenges)
         * [Good YouTube channels to follow](#good-youTube-channels)
+        * [Good Social media pages and groups](#good-social-media-pages-and-groups)
     * [Tools and Apps](#tools-and-apps)
         * [IDEs](#ides)
         * [Text editors](#text-editors)
@@ -170,6 +171,13 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
     * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
 
+### Good Social media pages and groups
+* Facebook pages
+   * [Team Open Minds Oran](https://www.facebook.com/open.minds.oran/) Our Facebook page :heart:
+   * [Dz Développeurs](https://www.facebook.com/Dz.Developpeurs/) A cool Facebook page shares projects made by Algerians, useful programming posts, geeky memes, etc.
+* Facebook groups
+   * [DZ DÉVELOPPEURS](https://www.facebook.com/groups/dzdevs/) The largest Algerian developers community on Facebook
+  
 ### Awesome repositories
 * Game design
    * [AwesomeJetLight](https://github.com/JetLightStudio/AwesomeJetLight)
