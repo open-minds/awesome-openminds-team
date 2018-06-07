@@ -155,6 +155,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
+    * [Hassouna academ](https://www.youtube.com/user/HassounaAcademy/playlists) : everything related to computer and its    sciences, web design and software
 
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
