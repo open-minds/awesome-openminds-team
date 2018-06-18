@@ -101,6 +101,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
 ### eBooks
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books 
 * [it-ebooks](http://it-ebooks.info/)
 * [LibreBooks](http://librebooks.org/)
 * [ebook-dl](http://ebook-dl.com/)
@@ -108,7 +109,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Free Book Spot](http://www.freebookspot.es/)
 * [Free Computer Books](http://freecomputerbooks.com/)
 * [FreeTechBooks](http://www.freetechbooks.com/)
-* [eBoook3000](http://www.ebook3000.com/)
+* [JSbooks](https://jsbooks.revolunet.com/)
 * [OnlineProgrammingBooks](http://www.onlineprogrammingbooks.com/)
 * [E-Books Directory](http://www.e-booksdirectory.com/)
 * [Free eBooks](http://books-pdf.blogspot.com/)
