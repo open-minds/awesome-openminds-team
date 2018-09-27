@@ -12,7 +12,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [eBooks](#ebooks)
         * [Geeky websites](#geeky-websites)
             * [Challenges](#challenges)
-        * [Good YouTube channels to follow](#good-youTube-channels)
+        * [Good YouTube channels to follow](#good-youtube-channels)
         * [Good Social media pages and groups](#good-social-media-pages-and-groups)
     * [Tools and Apps](#tools-and-apps)
         * [IDEs](#ides)

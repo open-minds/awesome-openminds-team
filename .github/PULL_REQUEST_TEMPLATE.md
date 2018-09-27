@@ -9,8 +9,8 @@ Before submitting a PR, please make sure that:
 -->
 
 
-## Summery:
-<!--  What issues does this PR resolve?  -->
+## Summary:
+<!--  What issue(s) does this PR solve?  -->
 
 Added:
 
