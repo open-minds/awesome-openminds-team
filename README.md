@@ -143,6 +143,12 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
 
+#### Information Security (CTF & Hacking Platforms)
+   * [HackTheBox](https://www.hackthebox.eu/)
+   * [VulnHub](https://www.vulnhub.com/)
+   * [Awesome Curated List of Environments and Platforms for Hacking and CTFs!](https://mrtaharamine.blogspot.com/2018/02/hacking-environments-and-platforms.html)
+
+
 #### Français
 * [Le Hollandais Volant](http://lehollandaisvolant.net/) Astuces et tutoriels informatique
 
