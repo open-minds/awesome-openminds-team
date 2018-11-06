@@ -12,6 +12,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [eBooks](#ebooks)
         * [Geeky websites](#geeky-websites)
             * [Challenges](#challenges)
+            * [CTF (Capture The Flag- Security Challenges)](#ctfcapture-the-flag--security-challenges)
+            * [Information Security (CTF & Hacking Platforms)](#information-security-ctf--hacking-platforms)
         * [Good YouTube channels to follow](#good-youtube-channels)
         * [Good Social media pages and groups](#good-social-media-pages-and-groups)
     * [Tools and Apps](#tools-and-apps)
@@ -142,6 +144,12 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
+
+#### Information Security (CTF & Hacking Platforms)
+   * [HackTheBox](https://www.hackthebox.eu/)
+   * [VulnHub](https://www.vulnhub.com/)
+   * [Awesome Curated List of Environments and Platforms for Hacking and CTFs!](https://mrtaharamine.blogspot.com/2018/02/hacking-environments-and-platforms.html)
+
 
 #### Français
 * [Le Hollandais Volant](http://lehollandaisvolant.net/) Astuces et tutoriels informatique
