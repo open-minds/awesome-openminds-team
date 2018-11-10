@@ -56,6 +56,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Atomic.io (free for students)](https://atomic.io/education/)
 * [indico](https://indico.io/non-commercial) API for text and image analysis.
 * [Free Astah Professional license for students](http://astah.net/student-license-request) Software Design Tools for Agile teams with UML, ER Diagram, Flowchart, Mindmap and More
+* [Microsoft Dev Essentials (Free Subscriptions to cloud services, tools and Learning platforms like PluralSight, DataCamp and WintellectNow)](https://visualstudio.microsoft.com/fr/dev-essentials/) 
 
 ## Chosen Websites
 
