@@ -156,7 +156,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 ### Good YouTube channels
 * Arabic
-    * [ElZero WebSchool](https://www.youtube.com/user/OsamaElzero) : Wed design tutorials
+    * [ElZero WebSchool](https://www.youtube.com/user/OsamaElzero) : Web design tutorials
     * [TheNewBaghdad](https://www.youtube.com/user/alxs1aa) : Programming & Software engineering tutorials
     * [Abdullah Eid](https://www.youtube.com/user/abdullaheidtv) : Programming tutorials (One of the best JAVA tutorials)
     * [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy) : Programming & Networking tutorials
