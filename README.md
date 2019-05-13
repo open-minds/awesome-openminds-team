@@ -226,6 +226,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Mimo](https://getmimo.com/): Learn how to code on your phone
 * [Lrn](http://lrnapp.com/): Learn to code at your convinience
 * [Grasshopper](https://grasshopper.codes/)
+* [<enki/>](https://enki.com/join/Fcmam5) The #1 app to level up data science and technical skills (available on [iOS](https://itunes.apple.com/nl/app/enki-coding-learn-to-code/id993753145) and [Android](https://play.google.com/store/apps/details?id=com.enki.insights))
 
 ### Collaboration tools
 * [Codeshare](http://codeshare.io/)
