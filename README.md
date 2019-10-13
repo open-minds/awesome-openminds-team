@@ -184,6 +184,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
     * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
+    
+* Portuguese
+   * [Loiane Groner](https://www.youtube.com/user/Loianeg)
 
 ### Good Social media pages and groups
 * Facebook pages
