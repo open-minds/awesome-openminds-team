@@ -187,6 +187,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     
 * Portuguese
    * [Loiane Groner](https://www.youtube.com/user/Loianeg)
+   * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
 
 ### Good Social media pages and groups
 * Facebook pages
