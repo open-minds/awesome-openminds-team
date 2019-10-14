@@ -130,7 +130,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Scotch.io](https://scotch.io)
 * [EggHead](https://egghead.io)
 * [SitePoint](https://www.sitepoint.com/)
-* [FreeCodeCamp's articles on Medium](https://medium.freecodecamp.com/)
+* [FreeCodeCamp News](https://www.freecodecamp.org/news/)
 * [CSS Reference](http://cssreference.io/) a free visual guide to CSS
 * [uxdesign.cc](https://uxdesign.cc/) User Experience, Usability, Product Design
 * [OverAPI.com](http://overapi.com/) Collecting All Cheat Sheets
@@ -179,6 +179,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
     * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
     * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
+    * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  Technical courses with no ads
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
