@@ -21,6 +21,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [Text editors](#text-editors)
         * [Mobile Apps](#mobile-apps)
         * [Collaboration tools](#collaboration-tools)
+        * [Podcasts](#podcasts)
 
 ----
 
@@ -180,6 +181,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
     * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
     * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  Technical courses with no ads
+    * [Extra Credits](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) everything related to games development 
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
@@ -241,3 +243,19 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Kobra.io](https://kobra.io/)
 * [A web whiteboard](https://awwapp.com/) A touch-friendly online whiteboard (tableau)
 * [Glitch (GoMix)](https://glitch.com/) Build your applications online, with real collaboration
+
+### Podcasts
+* English
+    * [Android Developers Backstage](https://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage) Podcast interviewing Google engineers about the latest Android APIs
+    * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) Podcast that discusses on various frameworks and tools available in Android Community
+    * [From The Source](https://open.spotify.com/show/0OpoyHy2U3Ev9n9gpYD3Zr) From the Source is an interview show that answers the question of what tech jobs are really like, both the good and the boring.
+    * [Tech Queens](https://www.fvcproductions.com/tech-queens/) Stories and advice shared by women of color in tech
+    * [Open source developer podcast](https://anchor.fm/opensourcedeveloperpod) Looking at open source including projects, community and people.
+    * [BookBytes](https://www.orbit.fm/bookbytes) A book club for developers.
+    * [Code Newbie](https://www.codenewbie.org/podcast)Stories from people on their coding journey.
+    * [Ladybug Podcast](https://ladybug.dev/) An all lady-hosted tech podcast for all developers.
+
+* Portuguese 
+    * [Pizza de Dados](https://pizzadedados.com/) 
+    * [Hipster ponto Tech](https://hipsters.tech/)
+    * [Braincast](https://www.b9.com.br/shows/braincast/)
