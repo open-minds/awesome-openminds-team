@@ -3,6 +3,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Awesome Open Minds Team](https://github.com/open-minds/awesome-openminds-team#Awesome-Open-Minds-Team)
     * [MOOC Websites](#mooc-websites)
     * [Freebies for students](#freebies-for-students)
+    * [Opportunities and international exchange programs](#opportunities-and-international-exchange-programs)
     * [Chosen Websites](#chosen-websites)
         * [Studies](#studies)
         * [Learn to code](#learn-to-code)
@@ -58,6 +59,12 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [indico](https://indico.io/non-commercial) API for text and image analysis.
 * [Free Astah Professional license for students](http://astah.net/student-license-request) Software Design Tools for Agile teams with UML, ER Diagram, Flowchart, Mindmap and More
 * [Microsoft Dev Essentials (Free Subscriptions to cloud services, tools and Learning platforms like PluralSight, DataCamp and WintellectNow)](https://visualstudio.microsoft.com/fr/dev-essentials/) 
+
+## Opportunities and international exchange programs
+* [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
+* [For9a - فرصة](https://www.for9a.com/) Find your passion, learn new skills, and find free opportunities at home and abroad.
+* [Marj3](https://www.marj3.com/) MENA #1 Platform for Scholarships, Opportunities and Universities enrollment around the world.
+
 
 ## Chosen Websites
 
