@@ -181,7 +181,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
     * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
     * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  Technical courses with no ads
-    * [Extra Credits](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) everything related to games development 
+    * [Extra Credits](https://www.youtube.com/user/ExtraCreditz) everything related to games development 
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
