@@ -41,6 +41,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Linda](https://www.lynda.com/)
     * [Sololearn](https://www.sololearn.com/)
     * [Khan Academy](https://www.khanacademy.org/computing)
+    * [Skillshare](https://www.skillshare.com/)
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
@@ -58,7 +59,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Atomic.io (free for students)](https://atomic.io/education/)
 * [indico](https://indico.io/non-commercial) API for text and image analysis.
 * [Free Astah Professional license for students](http://astah.net/student-license-request) Software Design Tools for Agile teams with UML, ER Diagram, Flowchart, Mindmap and More
-* [Microsoft Dev Essentials (Free Subscriptions to cloud services, tools and Learning platforms like PluralSight, DataCamp and WintellectNow)](https://visualstudio.microsoft.com/fr/dev-essentials/) 
+* [Microsoft Dev Essentials (Free Subscriptions to cloud services, tools and Learning platforms like PluralSight, DataCamp and WintellectNow)](https://visualstudio.microsoft.com/fr/dev-essentials/)
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
@@ -114,7 +115,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
 ### eBooks
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books 
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books
 * [it-ebooks](http://it-ebooks.info/)
 * [LibreBooks](http://librebooks.org/)
 * [ebook-dl](http://ebook-dl.com/)
@@ -151,7 +152,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
-   
+
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
@@ -188,13 +189,13 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
     * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
     * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  Technical courses with no ads
-    * [Extra Credits](https://www.youtube.com/user/ExtraCreditz) everything related to games development 
+    * [Extra Credits](https://www.youtube.com/user/ExtraCreditz) everything related to games development
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
     * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
-    
+
 * Portuguese
    * [Loiane Groner](https://www.youtube.com/user/Loianeg)
    * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
@@ -205,7 +206,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Dz Développeurs](https://www.facebook.com/Dz.Developpeurs/) A cool Facebook page shares projects made by Algerians, useful programming posts, geeky memes, etc.
 * Facebook groups
    * [DZ DÉVELOPPEURS](https://www.facebook.com/groups/dzdevs/) The largest Algerian developers community on Facebook
-  
+
 ### Awesome repositories
 * Game design
    * [AwesomeJetLight](https://github.com/JetLightStudio/AwesomeJetLight)
@@ -262,7 +263,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Code Newbie](https://www.codenewbie.org/podcast)Stories from people on their coding journey.
     * [Ladybug Podcast](https://ladybug.dev/) An all lady-hosted tech podcast for all developers.
 
-* Portuguese 
-    * [Pizza de Dados](https://pizzadedados.com/) 
+* Portuguese
+    * [Pizza de Dados](https://pizzadedados.com/)
     * [Hipster ponto Tech](https://hipsters.tech/)
     * [Braincast](https://www.b9.com.br/shows/braincast/)
