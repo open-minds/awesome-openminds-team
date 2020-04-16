@@ -191,6 +191,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
     * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  Technical courses with no ads
     * [Extra Credits](https://www.youtube.com/user/ExtraCreditz) everything related to games development
+    * [Traversy Media](https://www.youtube.com/user/TechGuyWeb) Tutorials related to Web Development
+    * [The Cherno](https://www.youtube.com/user/TheChernoProject) Great C++ series as well as Game Development
+    * [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) Algorithms, competitive programming, coding interviews taught by finalist of multiple big programming competitions like ICPC, Facebook Hacker Cup and Google Code Jam
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
@@ -213,6 +216,12 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [AwesomeJetLight](https://github.com/JetLightStudio/AwesomeJetLight)
 * Curriculum Vitae Template
    * [CV Template with Latex](https://github.com/saidziani/CV-Template)
+* A long list of (advanced) JavaScript questions, and their explanations
+   * [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
+* Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+   * [Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
+* Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+   * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Tools and Apps
 
