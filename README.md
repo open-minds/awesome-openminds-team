@@ -245,7 +245,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Vim](https://vim.sourceforge.io/)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [VSCodium](https://github.com/VSCodium/vscodium) Free/Libre Open Source Software Binaries of VSCode
-* [MonoDevelophttps://notepad-plus-plus.org/downloads/)
+* [MonoDevelop](http://www.monodevelop.com/download/)
+* [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
