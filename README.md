@@ -75,6 +75,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
 * [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science)
 * [Google: Guide to technical development ](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
 * [Cours, TDs, TPs, Examens de l'Université d'Oran 1](https://sites.google.com/site/weshare4student/home): par Khadidja BOUKREDIMI
 * [Exo7 Math](http://exo7.emath.fr/) Des cours, des exercices et des vidéos de mathématiques
 * [Saïd Chermak](https://www.youtube.com/user/infomaths) Cours de mathématiques, probabilitéss ...
@@ -172,7 +173,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [ElZero WebSchool](https://www.youtube.com/user/OsamaElzero) : Web design tutorials
     * [TheNewBaghdad](https://www.youtube.com/user/alxs1aa) : Programming & Software engineering tutorials
     * [Abdullah Eid](https://www.youtube.com/user/abdullaheidtv) : Programming tutorials (One of the best JAVA tutorials)
-    * [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
     * [Muhammed Essa](https://www.youtube.com/user/muhammedgalaxy) : Programming & Networking tutorials
     * [Free4Arab](https://www.youtube.com/user/Nourelhoda2011) : IT courses (CISCO, CEH, Compatia, RHCE...)
     * [EgyCoder](https://www.youtube.com/channel/UCmrvsMQhv5G7pWSDnLRwoJg)
@@ -195,6 +195,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Traversy Media](https://www.youtube.com/user/TechGuyWeb) Tutorials related to Web Development
     * [The Cherno](https://www.youtube.com/user/TheChernoProject) Great C++ series as well as Game Development
     * [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) Algorithms, competitive programming, coding interviews taught by finalist of multiple big programming competitions like ICPC, Facebook Hacker Cup and Google Code Jam
+    * [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
+    * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
+    * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
@@ -223,6 +226,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
    * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.
+   * [Play Chess](https://github.com/timburgan/timburgan)
 
 ## Tools and Apps
 
@@ -246,7 +251,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Visual Studio Code](https://code.visualstudio.com)
 * [VSCodium](https://github.com/VSCodium/vscodium) Free/Libre Open Source Software Binaries of VSCode
 * [MonoDevelop](http://www.monodevelop.com/download/)
-* [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
@@ -257,6 +261,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Lrn](http://lrnapp.com/): Learn to code at your convinience
 * [Grasshopper](https://grasshopper.codes/)
 * [&lt;enki/&gt;](https://enki.com/join/Fcmam5) The #1 app to level up data science and technical skills (available on [iOS](https://itunes.apple.com/nl/app/enki-coding-learn-to-code/id993753145) and [Android](https://play.google.com/store/apps/details?id=com.enki.insights))
+* [Dcoder](https://dcoder.tech/): Next Gen Coding... (Available on [Android](https://play.google.com/store/apps/details?id=com.paprbit.dcoder) & [iOS](https://apps.apple.com/us/app/dcoder-code-compiler-ide/id1488496978))
 
 ### Collaboration tools
 * [Codeshare](http://codeshare.io/)
