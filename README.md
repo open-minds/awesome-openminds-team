@@ -30,6 +30,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 *Platformes for learning awesome stuffs online*
 * English
     * [Udacity](http://udacity.com/)
+    * [Coursera](https://www.coursera.org/)
     * [Free Code Camp](http://freecodecamp.com/)
     * [CodeCademy](http://codecademy.com/)
     * [Udemy](https://www.udemy.com/)
