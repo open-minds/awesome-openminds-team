@@ -203,7 +203,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
     * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
     * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
-    * [Code with harry](https://www.youtube.com/results?search_query=code+with+harry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [Code with harry(hindi)](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
