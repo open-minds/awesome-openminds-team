@@ -118,6 +118,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * English
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
+    * [Mobbin](https://mobbin.design/patterns): Inspiration
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
