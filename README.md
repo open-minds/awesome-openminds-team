@@ -53,6 +53,11 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Openclassrooms](http://openclassrooms.com/)
     * [FUN](https://www.fun-mooc.fr/)
 
+* Portuguese
+    * [Alura](http://alura.com.br)
+    * [Curso Em Video](https://www.cursoemvideo.com/)
+    * [Estudonauta](https://www.estudonauta.com/)
+
 ## Freebies for students
 *Because we love you*
 * [Github Student pack](https://education.github.com/)
@@ -211,6 +216,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
    * [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
    * [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
+   * [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA)
+   * [Codeshow](https://www.youtube.com/user/brunovegan)
+   * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
+   * [Linux Tips](https://www.youtube.com/user/linuxtipscanal)
 
 ### Good Social media pages and groups
 * Facebook pages
