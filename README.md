@@ -209,7 +209,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
    * [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
    * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
-   * [Felipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+   * [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
    * [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
 
 ### Good Social media pages and groups
