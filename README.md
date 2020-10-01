@@ -195,6 +195,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Traversy Media](https://www.youtube.com/user/TechGuyWeb) Tutorials related to Web Development
     * [The Cherno](https://www.youtube.com/user/TheChernoProject) Great C++ series as well as Game Development
     * [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) Algorithms, competitive programming, coding interviews taught by finalist of multiple big programming competitions like ICPC, Facebook Hacker Cup and Google Code Jam
+    * [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
+    * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
+    * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
@@ -227,6 +230,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
 * Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
    * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.
+   * [Play Chess](https://github.com/timburgan/timburgan)
 
 ## Tools and Apps
 
@@ -260,6 +265,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Lrn](http://lrnapp.com/): Learn to code at your convinience
 * [Grasshopper](https://grasshopper.codes/)
 * [&lt;enki/&gt;](https://enki.com/join/Fcmam5) The #1 app to level up data science and technical skills (available on [iOS](https://itunes.apple.com/nl/app/enki-coding-learn-to-code/id993753145) and [Android](https://play.google.com/store/apps/details?id=com.enki.insights))
+* [Dcoder](https://dcoder.tech/): Next Gen Coding... (Available on [Android](https://play.google.com/store/apps/details?id=com.paprbit.dcoder) & [iOS](https://apps.apple.com/us/app/dcoder-code-compiler-ide/id1488496978))
 
 ### Collaboration tools
 * [Codeshare](http://codeshare.io/)
