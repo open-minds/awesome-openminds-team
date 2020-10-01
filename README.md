@@ -106,7 +106,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Platzi](https://platzi.com/) Learn technology with live classes and real-time interaction
 * [Gitignore.io](https://www.gitignore.io) Create Useful .gitignore Files For Your Projects
 * [Exercism](http://exercism.io/) Code practice and mentorship for everyone
-* [GeeksForGeeks](https://practice.geeksforgeeks.org/courses/fork-java)Foek java from scratch to intermediate with good content quality.
+* [GeeksForGeeks](https://practice.geeksforgeeks.org/)Learn coding and CS fundamentals from scratch to intermediate with good content.
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
