@@ -48,6 +48,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Edraak](https://www.edraak.org/)
     * [Rwaq](https://www.rwaq.org/)
     * [code4learn](https://code4learn.teachable.com/)
+    * [Barmej](https://www.barmej.com/)
 
 * French
     * [Openclassrooms](http://openclassrooms.com/)
