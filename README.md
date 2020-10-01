@@ -185,7 +185,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
-    * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists) : everything related to computer and its    sciences, web design and software
+    * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists) : everything related to computer and its sciences, web design and software
 
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
@@ -205,6 +205,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
     * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
     * [Code with harry](https://www.youtube.com/results?search_query=code+with+harry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
