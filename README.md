@@ -59,7 +59,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Estudonauta](https://www.estudonauta.com/)
 
 ## Freebies for students
-*Because we love you*
+*Because we love you* (▰˘◡˘▰)
 * [Github Student pack](https://education.github.com/)
 * [JetBrains free students pack (All IDEs for free)](https://www.jetbrains.com/shop/eform/students)
 * [Atomic.io (free for students)](https://atomic.io/education/)
@@ -118,7 +118,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * English
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
-    * [Mobbin](https://mobbin.design/patterns): Inspiration
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
@@ -204,7 +203,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
     * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
     * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
-    * [Code with harry](https://www.youtube.com/results?search_query=code+with+harry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [Code with harry](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
@@ -223,7 +222,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Linux Tips](https://www.youtube.com/user/linuxtipscanal)
 
 ### Good Social media pages and groups
-* Facebook pages
+* Facebook pages ヾ(❀╹◡╹)ﾉ~
    * [Team Open Minds Oran](https://www.facebook.com/open.minds.oran/) Our Facebook page :heart:
    * [Dz Développeurs](https://www.facebook.com/Dz.Developpeurs/) A cool Facebook page shares projects made by Algerians, useful programming posts, geeky memes, etc.
 * Facebook groups
