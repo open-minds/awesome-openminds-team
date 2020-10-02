@@ -38,10 +38,12 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Edx](http://edx.org/)
     * [CodeSchool](http://codeschool.com/)
     * [Pluralsight](https://www.pluralsight.com/)
-    * [Linda](https://www.lynda.com/)
+    * [Lynda](https://www.lynda.com/)
     * [Sololearn](https://www.sololearn.com/)
     * [Khan Academy](https://www.khanacademy.org/computing)
     * [Skillshare](https://www.skillshare.com/)
+    * [Shaw Academy](https://www.shawacademy.com/)
+    
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
