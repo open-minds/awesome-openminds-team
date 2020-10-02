@@ -3,6 +3,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Awesome Open Minds Team](https://github.com/open-minds/awesome-openminds-team#Awesome-Open-Minds-Team)
     * [MOOC Websites](#mooc-websites)
     * [Freebies for students](#freebies-for-students)
+    * [Opportunities and international exchange programs](#opportunities-and-international-exchange-programs)
     * [Chosen Websites](#chosen-websites)
         * [Studies](#studies)
         * [Learn to code](#learn-to-code)
@@ -21,6 +22,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [Text editors](#text-editors)
         * [Mobile Apps](#mobile-apps)
         * [Collaboration tools](#collaboration-tools)
+        * [Podcasts](#podcasts)
 
 ----
 
@@ -39,15 +41,23 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Linda](https://www.lynda.com/)
     * [Sololearn](https://www.sololearn.com/)
     * [Khan Academy](https://www.khanacademy.org/computing)
+    * [Skillshare](https://www.skillshare.com/)
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
     * [Edraak](https://www.edraak.org/)
     * [Rwaq](https://www.rwaq.org/)
+    * [code4learn](https://code4learn.teachable.com/)
+    * [Barmej](https://www.barmej.com/)
 
 * French
     * [Openclassrooms](http://openclassrooms.com/)
     * [FUN](https://www.fun-mooc.fr/)
+
+* Portuguese
+    * [Alura](http://alura.com.br)
+    * [Curso Em Video](https://www.cursoemvideo.com/)
+    * [Estudonauta](https://www.estudonauta.com/)
 
 ## Freebies for students
 *Because we love you*
@@ -56,7 +66,14 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Atomic.io (free for students)](https://atomic.io/education/)
 * [indico](https://indico.io/non-commercial) API for text and image analysis.
 * [Free Astah Professional license for students](http://astah.net/student-license-request) Software Design Tools for Agile teams with UML, ER Diagram, Flowchart, Mindmap and More
-* [Microsoft Dev Essentials (Free Subscriptions to cloud services, tools and Learning platforms like PluralSight, DataCamp and WintellectNow)](https://visualstudio.microsoft.com/fr/dev-essentials/) 
+* [Microsoft Dev Essentials (Free Subscriptions to cloud services, tools and Learning platforms like PluralSight, DataCamp and WintellectNow)](https://visualstudio.microsoft.com/fr/dev-essentials/)
+* [Gitpod](https://www.gitpod.io/pricing/) Students get the Unlimited plan for €8 per month.
+
+## Opportunities and international exchange programs
+* [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
+* [For9a - فرصة](https://www.for9a.com/) Find your passion, learn new skills, and find free opportunities at home and abroad.
+* [Marj3](https://www.marj3.com/) MENA #1 Platform for Scholarships, Opportunities and Universities enrollment around the world.
+
 
 ## Chosen Websites
 
@@ -102,11 +119,12 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * English
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
+    * [Mobbin](https://mobbin.design/patterns): Inspiration
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
 ### eBooks
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books 
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books
 * [it-ebooks](http://it-ebooks.info/)
 * [LibreBooks](http://librebooks.org/)
 * [ebook-dl](http://ebook-dl.com/)
@@ -143,7 +161,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
-   
+
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
@@ -168,7 +186,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
-    * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists) : everything related to computer and its    sciences, web design and software
+    * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
 
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
@@ -180,15 +198,32 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
     * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
     * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  Technical courses with no ads
+    * [Extra Credits](https://www.youtube.com/user/ExtraCreditz) everything related to games development
+    * [Traversy Media](https://www.youtube.com/user/TechGuyWeb) Tutorials related to Web Development
+    * [The Cherno](https://www.youtube.com/user/TheChernoProject) Great C++ series as well as Game Development
+    * [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) Algorithms, competitive programming, coding interviews taught by finalist of multiple big programming competitions like ICPC, Facebook Hacker Cup and Google Code Jam
+    * [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
+    * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
+    * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
 
+    * [Code with harry(hindi)](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
     * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
-    
+
 * Portuguese
    * [Loiane Groner](https://www.youtube.com/user/Loianeg)
    * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
+   * [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+   * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+   * [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+   * [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
+   * [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA)
+   * [Codeshow](https://www.youtube.com/user/brunovegan)
+   * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
+   * [Linux Tips](https://www.youtube.com/user/linuxtipscanal)
 
 ### Good Social media pages and groups
 * Facebook pages
@@ -196,12 +231,20 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Dz Développeurs](https://www.facebook.com/Dz.Developpeurs/) A cool Facebook page shares projects made by Algerians, useful programming posts, geeky memes, etc.
 * Facebook groups
    * [DZ DÉVELOPPEURS](https://www.facebook.com/groups/dzdevs/) The largest Algerian developers community on Facebook
-  
+
 ### Awesome repositories
 * Game design
    * [AwesomeJetLight](https://github.com/JetLightStudio/AwesomeJetLight)
 * Curriculum Vitae Template
    * [CV Template with Latex](https://github.com/saidziani/CV-Template)
+* A long list of (advanced) JavaScript questions, and their explanations
+   * [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
+* Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+   * [Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
+* Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+   * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.
+   * [Play Chess](https://github.com/timburgan/timburgan)
 
 ## Tools and Apps
 
@@ -223,6 +266,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Sublime Text](https://www.sublimetext.com/)
 * [Vim](https://vim.sourceforge.io/)
 * [Visual Studio Code](https://code.visualstudio.com)
+* [VSCodium](https://github.com/VSCodium/vscodium) Free/Libre Open Source Software Binaries of VSCode
 * [MonoDevelop](http://www.monodevelop.com/download/)
 
 ### Mobile Apps
@@ -234,6 +278,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Lrn](http://lrnapp.com/): Learn to code at your convinience
 * [Grasshopper](https://grasshopper.codes/)
 * [&lt;enki/&gt;](https://enki.com/join/Fcmam5) The #1 app to level up data science and technical skills (available on [iOS](https://itunes.apple.com/nl/app/enki-coding-learn-to-code/id993753145) and [Android](https://play.google.com/store/apps/details?id=com.enki.insights))
+* [Dcoder](https://dcoder.tech/): Next Gen Coding... (Available on [Android](https://play.google.com/store/apps/details?id=com.paprbit.dcoder) & [iOS](https://apps.apple.com/us/app/dcoder-code-compiler-ide/id1488496978))
 
 ### Collaboration tools
 * [Codeshare](http://codeshare.io/)
@@ -241,3 +286,19 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Kobra.io](https://kobra.io/)
 * [A web whiteboard](https://awwapp.com/) A touch-friendly online whiteboard (tableau)
 * [Glitch (GoMix)](https://glitch.com/) Build your applications online, with real collaboration
+
+### Podcasts
+* English
+    * [Android Developers Backstage](https://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage) Podcast interviewing Google engineers about the latest Android APIs
+    * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) Podcast that discusses on various frameworks and tools available in Android Community
+    * [From The Source](https://open.spotify.com/show/0OpoyHy2U3Ev9n9gpYD3Zr) From the Source is an interview show that answers the question of what tech jobs are really like, both the good and the boring.
+    * [Tech Queens](https://www.fvcproductions.com/tech-queens/) Stories and advice shared by women of color in tech
+    * [Open source developer podcast](https://anchor.fm/opensourcedeveloperpod) Looking at open source including projects, community and people.
+    * [BookBytes](https://www.orbit.fm/bookbytes) A book club for developers.
+    * [Code Newbie](https://www.codenewbie.org/podcast)Stories from people on their coding journey.
+    * [Ladybug Podcast](https://ladybug.dev/) An all lady-hosted tech podcast for all developers.
+
+* Portuguese
+    * [Pizza de Dados](https://pizzadedados.com/)
+    * [Hipster ponto Tech](https://hipsters.tech/)
+    * [Braincast](https://www.b9.com.br/shows/braincast/)

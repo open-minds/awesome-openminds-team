@@ -21,7 +21,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
+- Use [title-casing](https://titlecase.com/titlecase) (AP style).
 - Use the following format: `[List Name](link)`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
@@ -34,7 +34,7 @@ Thank you for your suggestions!
 
 ## Creating your own awesome list
 
-To create your own list, check out the [instructions](create-list.md).
+To create your own list, check out the [instructions](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 
 ## Adding something to an awesome list
 
@@ -53,4 +53,4 @@ You'll need a [GitHub account](https://github.com/join)!
 
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
 
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
