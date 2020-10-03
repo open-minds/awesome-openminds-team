@@ -208,7 +208,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
     * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
 
-    * [Code with harry(hindi)](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [Code with harry <<Hindi>>](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
     * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
