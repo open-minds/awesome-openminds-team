@@ -43,6 +43,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Khan Academy](https://www.khanacademy.org/computing)
     * [Skillshare](https://www.skillshare.com/)
     * [Shaw Academy](https://www.shawacademy.com/)
+    * [FrontendMasters](https://frontendmasters.com/)
     
 * Arabic
     * [Nadrus](http://nadrus.com/)
