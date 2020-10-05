@@ -297,7 +297,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Android Developers Backstage](https://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage) Podcast interviewing Google engineers about the latest Android APIs
     * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) Podcast that discusses on various frameworks and tools available in Android Community
     * [From The Source](https://open.spotify.com/show/0OpoyHy2U3Ev9n9gpYD3Zr) From the Source is an interview show that answers the question of what tech jobs are really like, both the good and the boring.
-    * [Tech Queens](https://www.fvcproductions.com/tech-queens/) Stories and advice shared by women of color in tech
+    * [Tech Queens](https://anchor.fm/tech-queens) Stories and advice shared by women of color in tech
     * [Open source developer podcast](https://anchor.fm/opensourcedeveloperpod) Looking at open source including projects, community and people.
     * [BookBytes](https://www.orbit.fm/bookbytes) A book club for developers.
     * [Code Newbie](https://www.codenewbie.org/podcast)Stories from people on their coding journey.
