@@ -190,7 +190,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
     * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
-    * [Traversy media](https://www.youtube.com/user/TechGuyWeb) Web developement tutorials
     * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
     
     
