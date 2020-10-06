@@ -124,6 +124,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
     * [Mobbin](https://mobbin.design/patterns): Inspiration
+    * [Coolors](https://coolors.co/): Color palette generator for web design
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
@@ -274,6 +275,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Visual Studio Code](https://code.visualstudio.com)
 * [VSCodium](https://github.com/VSCodium/vscodium) Free/Libre Open Source Software Binaries of VSCode
 * [MonoDevelop](http://www.monodevelop.com/download/)
+
+### Online Text editors
+* [Regular Expressions 101](https://regex101.com/): For testing Regex
+* [CodePen](https://codepen.io/): Online code editor for web developers (Javascript, HTML, CSS)
 
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
