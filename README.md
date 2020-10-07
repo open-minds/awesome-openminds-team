@@ -110,6 +110,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Gitignore.io](https://www.gitignore.io) Create Useful .gitignore Files For Your Projects
 * [Exercism](http://exercism.io/) Code practice and mentorship for everyone
 * [w3schools](https://www.w3schools.com/) W3Schools is optimized for learning, testing, and training.
+* [GFG:Geek For Geeks](https://www.geeksforgeeks.org/): one platform to learn DSA, programming languages, preparing for gate and for all cs students
+
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
@@ -168,6 +170,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
+   * [codeforces](https://www.codechef.com/): best for competitive programming
 
 
 #### CTF(Capture The Flag- Security Challenges)
