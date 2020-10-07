@@ -162,6 +162,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 #### Challenges
    * [Leet Code](https://leetcode.com/problemset/algorithms/)
    * [Hacker Rank](https://www.hackerrank.com/)
+   * [Hacker Earth] (https://www.hackerearth.com/)
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
