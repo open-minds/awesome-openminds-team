@@ -125,6 +125,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
     * [Mobbin](https://mobbin.design/patterns): Inspiration
     * [Coolors](https://coolors.co/): Color palette generator for web design
+    * [color Hunt] (https://colorhunt.co/): color palette available which are used by many web designers.
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
@@ -162,6 +163,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 #### Challenges
    * [Leet Code](https://leetcode.com/problemset/algorithms/)
    * [Hacker Rank](https://www.hackerrank.com/)
+   * [Hacker Earth] (https://www.hackerearth.com/)
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
