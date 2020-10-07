@@ -112,7 +112,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [w3schools](https://www.w3schools.com/) W3Schools is optimized for learning, testing, and training.
 * [GFG:Geek For Geeks](https://www.geeksforgeeks.org/): one platform to learn DSA, programming languages, preparing for gate and for all cs students
 
-
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
 * [Data Science : R Basics](https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+2T2019): Course about R basics presented by Harvard University
