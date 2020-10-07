@@ -253,7 +253,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.
    * [Play Chess](https://github.com/timburgan/timburgan)
-
 * A GitHub Repository where we can go through a whole Computer Science Degree.
    * [Open Source Computer Science](https://github.com/ForrestKnight/open-source-cs)
 
