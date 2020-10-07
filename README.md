@@ -215,6 +215,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
     * [Code with harry <<Hindi>>](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
     * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
+    * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) Awesome Tutorials for Python, AI for games and Machine Learning basic
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
@@ -252,6 +253,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.
    * [Play Chess](https://github.com/timburgan/timburgan)
+* A GitHub Repository where we can go through a whole Computer Science Degree.
+   * [Open Source Computer Science](https://github.com/ForrestKnight/open-source-cs)
 
 ## Tools and Apps
 
