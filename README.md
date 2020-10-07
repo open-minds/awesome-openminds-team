@@ -168,6 +168,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
+   * [codeforces](https://www.codechef.com/): best for competitive programming
 
 
 #### CTF(Capture The Flag- Security Challenges)
