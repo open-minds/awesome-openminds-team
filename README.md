@@ -111,7 +111,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Exercism](http://exercism.io/) Code practice and mentorship for everyone
 * [w3schools](https://www.w3schools.com/) W3Schools is optimized for learning, testing, and training.
 
-
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
 * [Data Science : R Basics](https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+2T2019): Course about R basics presented by Harvard University
