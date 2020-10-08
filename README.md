@@ -164,6 +164,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 #### Challenges
    * [Leet Code](https://leetcode.com/problemset/algorithms/)
    * [Hacker Rank](https://www.hackerrank.com/)
+   * [GUVI](https://www.guvi.in/)
    * [Hacker Earth] (https://www.hackerearth.com/)
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
@@ -174,6 +175,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
+   * [HACKER101](https://ctf.hacker101.com/)
 
 #### Information Security (CTF & Hacking Platforms)
    * [HackTheBox](https://www.hackthebox.eu/)
