@@ -160,6 +160,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [uxdesign.cc](https://uxdesign.cc/) User Experience, Usability, Product Design
 * [OverAPI.com](http://overapi.com/) Collecting All Cheat Sheets
 * [The list for web designers](https://www.designerslist.info/) A complete toolkit for web designers, wireframes, tutorials, blogs, tools, stock photos, fonts, color schemes, icons...
+* [Geeksforgeeks](https://www.geeksforgeeks.org/) 
 
 #### Challenges
    * [Leet Code](https://leetcode.com/problemset/algorithms/)
@@ -170,8 +171,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
-   * [codeforces](https://www.codechef.com/): best for competitive programming
+   * [codechef](https://www.codechef.com/): best for competitive programming
    * [codingame](https://www.codingame.com/): Coding game and programming challenges to code better
+   * [Leetcde](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/): The October coding challenge, with a variety of questions.
+
 
 
 #### CTF(Capture The Flag- Security Challenges)
