@@ -172,11 +172,13 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
    * [codeforces](https://www.codechef.com/): best for competitive programming
    * [codingame](https://www.codingame.com/): Coding game and programming challenges to code better
+   * [Timus Online Judge](http://acm.timus.ru/): An online archive for programming problems and automatic judging system.
 
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
    * [HACKER101](https://ctf.hacker101.com/)
+   * [picoCTF](https://picoctf.org/)
 
 #### Information Security (CTF & Hacking Platforms)
    * [HackTheBox](https://www.hackthebox.eu/)
