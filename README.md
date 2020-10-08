@@ -126,7 +126,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
     * [Mobbin](https://mobbin.design/patterns): Inspiration
     * [Coolors](https://coolors.co/): Color palette generator for web design
-    * [color Hunt] (https://colorhunt.co/): color palette available which are used by many web designers.
+    * [color Hunt](https://colorhunt.co/): color palette available which are used by many web designers.
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
