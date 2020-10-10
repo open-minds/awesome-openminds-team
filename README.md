@@ -111,6 +111,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Exercism](http://exercism.io/) Code practice and mentorship for everyone
 * [w3schools](https://www.w3schools.com/) W3Schools is optimized for learning, testing, and training.
 * [GFG:Geek For Geeks](https://www.geeksforgeeks.org/): one platform to learn DSA, programming languages, preparing for gate and for all cs students
+* [Code Monk](https://www.hackerearth.com/practice/codemonk/): Codemonk is a curated list of topics to help you improve your skills in the fundamental concepts of programming
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
@@ -163,8 +164,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [The list for web designers](https://www.designerslist.info/) A complete toolkit for web designers, wireframes, tutorials, blogs, tools, stock photos, fonts, color schemes, icons...
 
 #### Challenges
-   * [Leet Code](https://leetcode.com/problemset/algorithms/)
-   * [Hacker Rank](https://www.hackerrank.com/)
+   * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year. 
+   * [Hacker Rank](https://www.hackerrank.com/) 
    * [GUVI](https://www.guvi.in/)
    * [Hacker Earth](https://www.hackerearth.com/)
    * [Project Euler](https://projecteuler.net/archives)
@@ -211,6 +212,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
+    * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): Set of quality videos about programming and computer science here
     * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
     * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
     * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
