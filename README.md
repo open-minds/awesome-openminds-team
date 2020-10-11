@@ -71,6 +71,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Free Astah Professional license for students](http://astah.net/student-license-request) Software Design Tools for Agile teams with UML, ER Diagram, Flowchart, Mindmap and More
 * [Microsoft Dev Essentials (Free Subscriptions to cloud services, tools and Learning platforms like PluralSight, DataCamp and WintellectNow)](https://visualstudio.microsoft.com/fr/dev-essentials/)
 * [Gitpod](https://www.gitpod.io/pricing/) Students get the Unlimited plan for €8 per month.
+* [Figma](https://www.figma.com/education/) Figma is a design and prototyping app. Students get a special education plan for free.
+* [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
