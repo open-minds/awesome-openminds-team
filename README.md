@@ -301,7 +301,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [CamScanner](https://www.camscanner.com/user/download)
 * [SoloLearn](http://sololearn.com/)
 * [Evernote](https://appcenter.evernote.com/)
-* [Laverna](https://laverna.cc): Multi-platforme note taking solution.
+* [Laverna](https://laverna.cc): Multi-platform note taking solution.
 * [Mimo](https://getmimo.com/): Learn how to code on your phone
 * [Lrn](http://lrnapp.com/): Learn to code at your convinience
 * [Grasshopper](https://grasshopper.codes/)
