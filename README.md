@@ -175,7 +175,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
-   * [codeforces](https://www.codechef.com/): best for competitive programming
+   * [Codechef](https://www.codechef.com/): Hosts monthly competitve programming competitions, and has a vast variety of practice problems.
+   * [codeforces](https://www.codeforces.com/): best for competitive programming
    * [codingame](https://www.codingame.com/): Coding game and programming challenges to code better
    * [Timus Online Judge](http://acm.timus.ru/): An online archive for programming problems and automatic judging system.
    * [InterviewBit](https://www.interviewbit.com/): Similar to LeetCode and HackerRank with lots of free questions and contests.
