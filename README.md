@@ -44,6 +44,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Skillshare](https://www.skillshare.com/)
     * [Shaw Academy](https://www.shawacademy.com/)
     * [FrontendMasters](https://frontendmasters.com/)
+    * [A Cloud Guru](https://acloudguru.com/)
     
 * Arabic
     * [Nadrus](http://nadrus.com/)
