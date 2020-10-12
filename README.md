@@ -46,7 +46,6 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [FrontendMasters](https://frontendmasters.com/)
     * [A Cloud Guru](https://acloudguru.com/)
     * [BitDegree](https://www.bitdegree.org/)
-    * [w3schools](https://www.w3schools.com/)
     
 * Arabic
     * [Nadrus](http://nadrus.com/)
