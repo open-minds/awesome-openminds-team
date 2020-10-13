@@ -38,16 +38,22 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Edx](http://edx.org/)
     * [CodeSchool](http://codeschool.com/)
     * [Pluralsight](https://www.pluralsight.com/)
-    * [Linda](https://www.lynda.com/)
+    * [Lynda](https://www.lynda.com/)
     * [Sololearn](https://www.sololearn.com/)
     * [Khan Academy](https://www.khanacademy.org/computing)
     * [Skillshare](https://www.skillshare.com/)
+    * [Shaw Academy](https://www.shawacademy.com/)
+    * [FrontendMasters](https://frontendmasters.com/)
+    * [A Cloud Guru](https://acloudguru.com/)
+    * [BitDegree](https://www.bitdegree.org/)
+    
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
     * [Edraak](https://www.edraak.org/)
     * [Rwaq](https://www.rwaq.org/)
     * [code4learn](https://code4learn.teachable.com/)
+    * [Barmej](https://www.barmej.com/)
 
 * French
     * [Openclassrooms](http://openclassrooms.com/)
@@ -67,6 +73,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Free Astah Professional license for students](http://astah.net/student-license-request) Software Design Tools for Agile teams with UML, ER Diagram, Flowchart, Mindmap and More
 * [Microsoft Dev Essentials (Free Subscriptions to cloud services, tools and Learning platforms like PluralSight, DataCamp and WintellectNow)](https://visualstudio.microsoft.com/fr/dev-essentials/)
 * [Gitpod](https://www.gitpod.io/pricing/) Students get the Unlimited plan for €8 per month.
+* [Figma](https://www.figma.com/education/) Figma is a design and prototyping app. Students get a special education plan for free.
+* [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
@@ -105,10 +113,14 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Platzi](https://platzi.com/) Learn technology with live classes and real-time interaction
 * [Gitignore.io](https://www.gitignore.io) Create Useful .gitignore Files For Your Projects
 * [Exercism](http://exercism.io/) Code practice and mentorship for everyone
+* [w3schools](https://www.w3schools.com/) W3Schools is optimized for learning, testing, and training.
+* [GFG:Geek For Geeks](https://www.geeksforgeeks.org/): one platform to learn DSA, programming languages, preparing for gate and for all cs students
+* [Code Monk](https://www.hackerearth.com/practice/codemonk/): Codemonk is a curated list of topics to help you improve your skills in the fundamental concepts of programming
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
 * [Data Science : R Basics](https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+2T2019): Course about R basics presented by Harvard University
+* [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning): Learn the core ideas in machine learning, and build your first models.
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
@@ -118,6 +130,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * English
     * [Mir Rom](https://www.youtube.com/channel/UCEoyp41c5FU0JoImJy8rPzw): Photoshop
     * [Nick Saporito](https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w): Inkscape
+    * [Mobbin](https://mobbin.design/patterns): Inspiration
+    * [Coolors](https://coolors.co/): Color palette generator for web design
+    * [color Hunt](https://colorhunt.co/): color palette available which are used by many web designers.
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
@@ -153,16 +168,25 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [The list for web designers](https://www.designerslist.info/) A complete toolkit for web designers, wireframes, tutorials, blogs, tools, stock photos, fonts, color schemes, icons...
 
 #### Challenges
-   * [Leet Code](https://leetcode.com/problemset/algorithms/)
-   * [Hacker Rank](https://www.hackerrank.com/)
+   * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year. 
+   * [Hacker Rank](https://www.hackerrank.com/) 
+   * [GUVI](https://www.guvi.in/)
+   * [Hacker Earth](https://www.hackerearth.com/)
    * [Project Euler](https://projecteuler.net/archives)
    * [Code Wars](https://www.codewars.com/)
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
+   * [Codechef](https://www.codechef.com/): Hosts monthly competitve programming competitions, and has a vast variety of practice problems.
+   * [codeforces](https://www.codeforces.com/): best for competitive programming
+   * [codingame](https://www.codingame.com/): Coding game and programming challenges to code better
+   * [Timus Online Judge](http://acm.timus.ru/): An online archive for programming problems and automatic judging system.
+   * [InterviewBit](https://www.interviewbit.com/): Similar to LeetCode and HackerRank with lots of free questions and contests.
 
 
 #### CTF(Capture The Flag- Security Challenges)
    * [Root Me](https://www.root-me.org/)
+   * [HACKER101](https://ctf.hacker101.com/)
+   * [picoCTF](https://picoctf.org/)
 
 #### Information Security (CTF & Hacking Platforms)
    * [HackTheBox](https://www.hackthebox.eu/)
@@ -184,14 +208,17 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Arab GNU/Linux](https://www.youtube.com/user/abdulmogeeb)
     * [Mjma3](https://www.youtube.com/user/Mjma3Academy/playlists)
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
-    * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists) : everything related to computer and its    sciences, web design and software
-
+    * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
+    * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
+    
+    
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
     * [The new Boston](https://www.youtube.com/user/thenewboston)
     * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
     * [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
     * [CodeGeek](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA)
+    * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): Set of quality videos about programming and computer science here
     * [Hak5](https://www.youtube.com/user/Hak5Darren): Hak5 has been developing innovative penetration testing devices, award winning online media, and immersive information security training since 2005.
     * [BracKeys](https://www.youtube.com/user/Brackeys) a must have for Unity3D users
     * [Sentdex](https://www.youtube.com/user/sentdex) Python tutorials from basics to NLP, Computer vision and Machine learning
@@ -204,7 +231,11 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
     * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
     * [Code with harry](https://www.youtube.com/results?search_query=code+with+harry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [Code with harry <<Hindi>>](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
+    * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) Awesome Tutorials for Python, AI for games and Machine Learning basic
     * [Blender Guru](https://www.youtube.com/user/AndrewPPrice), This channel creates tutorials for the free 3D software: Blender.
+
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
@@ -242,6 +273,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.
    * [Play Chess](https://github.com/timburgan/timburgan)
+* A GitHub Repository where we can go through a whole Computer Science Degree.
+   * [Open Source Computer Science](https://github.com/ForrestKnight/open-source-cs)
 
 ## Tools and Apps
 
@@ -266,11 +299,15 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [VSCodium](https://github.com/VSCodium/vscodium) Free/Libre Open Source Software Binaries of VSCode
 * [MonoDevelop](http://www.monodevelop.com/download/)
 
+### Online Text editors
+* [Regular Expressions 101](https://regex101.com/): For testing Regex
+* [CodePen](https://codepen.io/): Online code editor for web developers (Javascript, HTML, CSS)
+
 ### Mobile Apps
 * [CamScanner](https://www.camscanner.com/user/download)
 * [SoloLearn](http://sololearn.com/)
 * [Evernote](https://appcenter.evernote.com/)
-* [Laverna](https://laverna.cc): Multi-platforme note taking solution.
+* [Laverna](https://laverna.cc): Multi-platform note taking solution.
 * [Mimo](https://getmimo.com/): Learn how to code on your phone
 * [Lrn](http://lrnapp.com/): Learn to code at your convinience
 * [Grasshopper](https://grasshopper.codes/)
@@ -289,7 +326,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Android Developers Backstage](https://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage) Podcast interviewing Google engineers about the latest Android APIs
     * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) Podcast that discusses on various frameworks and tools available in Android Community
     * [From The Source](https://open.spotify.com/show/0OpoyHy2U3Ev9n9gpYD3Zr) From the Source is an interview show that answers the question of what tech jobs are really like, both the good and the boring.
-    * [Tech Queens](https://www.fvcproductions.com/tech-queens/) Stories and advice shared by women of color in tech
+    * [Tech Queens](https://anchor.fm/tech-queens) Stories and advice shared by women of color in tech
     * [Open source developer podcast](https://anchor.fm/opensourcedeveloperpod) Looking at open source including projects, community and people.
     * [BookBytes](https://www.orbit.fm/bookbytes) A book club for developers.
     * [Code Newbie](https://www.codenewbie.org/podcast)Stories from people on their coding journey.
