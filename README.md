@@ -134,6 +134,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Mobbin](https://mobbin.design/patterns): Inspiration
     * [Coolors](https://coolors.co/): Color palette generator for web design
     * [color Hunt](https://colorhunt.co/): color palette available which are used by many web designers.
+    * [Fluid UI](https://www.fluidui.com/) Create Web and Mobile prototypes in minutes.
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
 
@@ -188,6 +189,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Root Me](https://www.root-me.org/)
    * [HACKER101](https://ctf.hacker101.com/)
    * [picoCTF](https://picoctf.org/)
+   * [EnigmaGroup](https://www.enigmagroup.org/) Web Application Security Training
+   * [TryHackMe](https://tryhackme.com/) Challenges, Practice, Teaching Cibersecurity.
 
 #### Information Security (CTF & Hacking Platforms)
    * [HackTheBox](https://www.hackthebox.eu/)
@@ -211,7 +214,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
     * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
     * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
-    
     
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
@@ -239,7 +241,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
     * [Développement Facile](https://www.youtube.com/user/developpementfacile/videos)
-
 * Portuguese
    * [Loiane Groner](https://www.youtube.com/user/Loianeg)
    * [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
@@ -252,12 +253,16 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
    * [Linux Tips](https://www.youtube.com/user/linuxtipscanal)
 
+- Spanish
+  - [Shaylin Ortiz (ROOT OR DEATH](https://www.youtube.com/channel/UCZPiAjdoHhVNU7h9xnanGkw) Aws, Docker.
+
 ### Good Social media pages and groups
 * Facebook pages
    * [Team Open Minds Oran](https://www.facebook.com/open.minds.oran/) Our Facebook page :heart:
    * [Dz Développeurs](https://www.facebook.com/Dz.Developpeurs/) A cool Facebook page shares projects made by Algerians, useful programming posts, geeky memes, etc.
 * Facebook groups
    * [DZ DÉVELOPPEURS](https://www.facebook.com/groups/dzdevs/) The largest Algerian developers community on Facebook
+   * [Developers Dominicanos](https://www.facebook.com/developersdominicanos) The most popular group of Devs on Dominican Republic.
 
 ### Awesome repositories
 * Game design
@@ -297,6 +302,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Visual Studio Code](https://code.visualstudio.com)
 * [VSCodium](https://github.com/VSCodium/vscodium) Free/Libre Open Source Software Binaries of VSCode
 * [MonoDevelop](http://www.monodevelop.com/download/)
+* [NotePad ++](https://notepad-plus-plus.org/)
 
 ### Online Text editors
 * [Regular Expressions 101](https://regex101.com/): For testing Regex
