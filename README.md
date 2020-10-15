@@ -215,10 +215,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
     * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
     * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
-    * [OnlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Tutorials for Front-end, creative Front-End tutorials using HTML/CSS/JS.
-    * [Adam Wathan](https://www.youtube.com/c/AdamWathan): He is creator of Utility-based CSS Framework Tailwind CSS and uploads videos regarding the designing of sites with TailWind CSS.
-    * [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw):He mostly uploads videos on  Vue and does collaboration with other creators too.
-    * [this.stephie](https://www.youtube.com/channel/UCr8BLoBSZtmVr31UEfCiQfA):A wonderful female content creator, especially posts about Vue.js
+    
     
     
 * English
@@ -243,6 +240,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Code with harry <<Hindi>>](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
     * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
     * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) Awesome Tutorials for Python, AI for games and Machine Learning basic
+    * [OnlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Tutorials for Front-end, creative Front-End tutorials using HTML/CSS/JS.
+    * [Adam Wathan](https://www.youtube.com/c/AdamWathan): He is creator of Utility-based CSS Framework Tailwind CSS and uploads videos regarding the designing of sites with TailWind CSS.
+    * [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw):He mostly uploads videos on  Vue and does collaboration with other creators too.
+    * [this.stephie](https://www.youtube.com/channel/UCr8BLoBSZtmVr31UEfCiQfA):A wonderful female content creator, especially posts about Vue.js
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
