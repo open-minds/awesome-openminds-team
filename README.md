@@ -188,11 +188,15 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Root Me](https://www.root-me.org/)
    * [HACKER101](https://ctf.hacker101.com/)
    * [picoCTF](https://picoctf.org/)
+   * [Echo CTF](https://echoctf.com/)
+   * [Over The Wire](https://overthewire.org/wargames/)
 
 #### Information Security (CTF & Hacking Platforms)
    * [HackTheBox](https://www.hackthebox.eu/)
    * [VulnHub](https://www.vulnhub.com/)
    * [Awesome Curated List of Environments and Platforms for Hacking and CTFs!](https://mrtaharamine.blogspot.com/2018/02/hacking-environments-and-platforms.html)
+   * [TryHackMe](https://tryhackme.com/) :: A wonderful learning platform for Cyber Security ethusiasts with dedicated Virtual Machines and fun challenges.
+
 
 
 #### Français
@@ -211,6 +215,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
     * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
     * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
+    * [OnlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Tutorials for Front-end, creative Front-End tutorials using HTML/CSS/JS.
+    * [Adam Wathan](https://www.youtube.com/c/AdamWathan): He is creator of Utility-based CSS Framework Tailwind CSS and uploads videos regarding the designing of sites with TailWind CSS.
+    * [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw):He mostly uploads videos on  Vue and does collaboration with other creators too.
+    * [this.stephie](https://www.youtube.com/channel/UCr8BLoBSZtmVr31UEfCiQfA):A wonderful female content creator, especially posts about Vue.js
     
     
 * English
