@@ -297,7 +297,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
   * [Rider](https://www.jetbrains.com/rider/) (C#/ASP.NET/F#)
   * [RubyMine](https://www.jetbrains.com/ruby/) (Ruby)
   * [DataGrip](https://www.jetbrains.com/datagrip/) (Databases)
-* [CodeBlocks](http://codeblocks.org/)
+  * [CodeBlocks](http://codeblocks.org/)
+  * [Repl.it](https://repl.it/)
 
 ### Text editors
 * [Atom](http://atom.io/)
