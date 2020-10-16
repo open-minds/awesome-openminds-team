@@ -178,6 +178,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
    * [Codechef](https://www.codechef.com/): Hosts monthly competitve programming competitions, and has a vast variety of practice problems.
+   * [CodeSignal](https://app.codesignal.com/)
    * [codeforces](https://www.codeforces.com/): best for competitive programming
    * [codingame](https://www.codingame.com/): Coding game and programming challenges to code better
    * [Timus Online Judge](http://acm.timus.ru/): An online archive for programming problems and automatic judging system.
