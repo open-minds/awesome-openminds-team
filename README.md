@@ -101,7 +101,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Université en ligne](http://uel.unisciel.fr/) Coherent selection of resources & Multimedia for students.
 
 ### Learn to code
-* [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
 * [Tutorialspoint](www.tutorialspoint.com/)
 * [Enlight](https://enlight.nyc/) learn to </> by building projects
 * [The Odin Project](http://www.theodinproject.com/)
@@ -117,6 +116,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [GFG:Geek For Geeks](https://www.geeksforgeeks.org/): one platform to learn DSA, programming languages, preparing for gate and for all cs students
 * [Code Monk](https://www.hackerearth.com/practice/codemonk/): Codemonk is a curated list of topics to help you improve your skills in the fundamental concepts of programming
 * [JetBrains Academy](https://hyperskill.org/): Coding challenges and projects
+* [Codeasy.net](https://codeasy.net/): story based learning of C# that requires programming skills to navigate your work through.
+* [ELIS e-learning portal](https://free.aicte-india.org/ms-products.php): Over 1526 **free** course modules from Microsoft in collaboration with AICTE.
+
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
@@ -157,6 +159,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 #### Programming eBooks
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
 * [C FR](https://drive.google.com/open?id=0B1IcqtFWVMxMOGMxdjZQc0lxajQ)
+* [Python FR](https://drive.google.com/file/d/1MCRitlnWT6TpqVdUVyHfqDF3YhPXo8Kr/view)
 
 ### Geeky websites
 * [Scotch.io](https://scotch.io)
