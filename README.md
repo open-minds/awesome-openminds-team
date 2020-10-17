@@ -46,6 +46,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [FrontendMasters](https://frontendmasters.com/)
     * [A Cloud Guru](https://acloudguru.com/)
     * [BitDegree](https://www.bitdegree.org/)
+    * [AWS](https://www.aws.training/)
+    
     
 * Arabic
     * [Nadrus](http://nadrus.com/)
@@ -317,6 +319,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [CamScanner](https://www.camscanner.com/user/download)
 * [SoloLearn](http://sololearn.com/)
 * [Evernote](https://appcenter.evernote.com/)
+* [Notion](https://www.notion.so/)
 * [Laverna](https://laverna.cc): Multi-platform note taking solution.
 * [Mimo](https://getmimo.com/): Learn how to code on your phone
 * [Lrn](http://lrnapp.com/): Learn to code at your convinience
