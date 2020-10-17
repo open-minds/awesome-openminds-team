@@ -117,6 +117,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [GFG:Geek For Geeks](https://www.geeksforgeeks.org/): one platform to learn DSA, programming languages, preparing for gate and for all cs students
 * [Code Monk](https://www.hackerearth.com/practice/codemonk/): Codemonk is a curated list of topics to help you improve your skills in the fundamental concepts of programming
 * [JetBrains Academy](https://hyperskill.org/): Coding challenges and projects
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/): platform to learn Web Design, DSA, ML, etc.
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
@@ -183,6 +184,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Timus Online Judge](http://acm.timus.ru/): An online archive for programming problems and automatic judging system.
    * [InterviewBit](https://www.interviewbit.com/): Similar to LeetCode and HackerRank with lots of free questions and contests.
    * [SPOJ](https://www.spoj.com/): Sphere Online Judge (SPOJ) is an online judge system with over 640,000 registered users and over 20,000 problems.
+   * [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code): The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 
 
 #### CTF(Capture The Flag- Security Challenges)
