@@ -117,6 +117,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [GFG:Geek For Geeks](https://www.geeksforgeeks.org/): one platform to learn DSA, programming languages, preparing for gate and for all cs students
 * [Code Monk](https://www.hackerearth.com/practice/codemonk/): Codemonk is a curated list of topics to help you improve your skills in the fundamental concepts of programming
 * [JetBrains Academy](https://hyperskill.org/): Coding challenges and projects
+* [Full Stack Open 2020](https://fullstackopen.com/en/): Modern Web Development (Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
