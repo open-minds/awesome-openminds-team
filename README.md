@@ -172,7 +172,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 #### Challenges
    * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year. 
-   * [Hacker Rank](https://www.hackerrank.com/) 
+   * [Hacker Rank](https://www.hackerrank.com/) : a platform for beginners to pros with tutorials and editorials . best for getting started with programming.
    * [GUVI](https://www.guvi.in/)
    * [Hacker Earth](https://www.hackerearth.com/)
    * [Project Euler](https://projecteuler.net/archives)
