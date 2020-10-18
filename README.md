@@ -311,6 +311,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Visual Studio Code](https://code.visualstudio.com)
 * [VSCodium](https://github.com/VSCodium/vscodium) Free/Libre Open Source Software Binaries of VSCode
 * [MonoDevelop](http://www.monodevelop.com/download/)
+* [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ### Online Text editors
 * [Regular Expressions 101](https://regex101.com/): For testing Regex
