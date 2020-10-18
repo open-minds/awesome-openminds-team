@@ -119,7 +119,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [JetBrains Academy](https://hyperskill.org/): Coding challenges and projects
 * [Codeasy.net](https://codeasy.net/): story based learning of C# that requires programming skills to navigate your work through.
 * [ELIS e-learning portal](https://free.aicte-india.org/ms-products.php): Over 1526 **free** course modules from Microsoft in collaboration with AICTE.
-
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/): platform to learn Web Design, DSA, ML, etc.
+* [Full Stack Open 2020](https://fullstackopen.com/en/): Modern Web Development (Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
 
 ### Learn Data Science
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
@@ -174,7 +175,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 #### Challenges
    * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year. 
-   * [Hacker Rank](https://www.hackerrank.com/) 
+   * [Hacker Rank](https://www.hackerrank.com/) : a platform for beginners to pros with tutorials and editorials . best for getting started with programming.
    * [GUVI](https://www.guvi.in/)
    * [Hacker Earth](https://www.hackerearth.com/)
    * [Project Euler](https://projecteuler.net/archives)
@@ -187,6 +188,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Timus Online Judge](http://acm.timus.ru/): An online archive for programming problems and automatic judging system.
    * [InterviewBit](https://www.interviewbit.com/): Similar to LeetCode and HackerRank with lots of free questions and contests.
    * [SPOJ](https://www.spoj.com/): Sphere Online Judge (SPOJ) is an online judge system with over 640,000 registered users and over 20,000 problems.
+   * [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code): The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 
 
 #### CTF(Capture The Flag- Security Challenges)
