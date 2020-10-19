@@ -318,7 +318,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [MonoDevelop](http://www.monodevelop.com/download/)
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-### Text editors extensions
+### Extensions for Text editors
 * <img src="https://vulndetect.org/assets/uploads/files/1557660014386-microsoft_visual_studio_code_icon_256x256.ico" alt="drawing" width="15"/> [Visual Studio Code](https://code.visualstudio.com)
   * <img src="https://humao.gallerycdn.vsassets.io/extensions/humao/rest-client/0.24.3/1601916894357/Microsoft.VisualStudio.Services.Icons.Default" alt="drawing" width="15"/> [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
 
