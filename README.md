@@ -319,8 +319,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ### Extensions for Text editors
-* [Visual Studio Code](https://code.visualstudio.com)
-  * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) 
+#### Visual Studio Code
+ * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ### Online Text editors
 * [Regular Expressions 101](https://regex101.com/): For testing Regex
