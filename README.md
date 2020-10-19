@@ -331,6 +331,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [MonoDevelop](http://www.monodevelop.com/download/)
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
 
+### Extensions for Text editors
+* **Visual Studio Code**
+  * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
 ### Online Text editors
 * [Regular Expressions 101](https://regex101.com/): For testing Regex
 * [CodePen](https://codepen.io/): Online code editor for web developers (Javascript, HTML, CSS)
