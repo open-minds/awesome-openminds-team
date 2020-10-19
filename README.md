@@ -251,6 +251,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Adam Wathan](https://www.youtube.com/c/AdamWathan): He is creator of Utility-based CSS Framework Tailwind CSS and uploads videos regarding the designing of sites with TailWind CSS.
     * [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw):He mostly uploads videos on  Vue and does collaboration with other creators too.
     * [this.stephie](https://www.youtube.com/channel/UCr8BLoBSZtmVr31UEfCiQfA):A wonderful female content creator, especially posts about Vue.js
+    * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner.
+
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
