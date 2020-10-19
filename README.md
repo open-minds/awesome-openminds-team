@@ -345,6 +345,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [BookBytes](https://www.orbit.fm/bookbytes) A book club for developers.
     * [Code Newbie](https://www.codenewbie.org/podcast)Stories from people on their coding journey.
     * [Ladybug Podcast](https://ladybug.dev/) An all lady-hosted tech podcast for all developers.
+    * [Coding Blocks](https://www.codingblocks.net/) Podcast and Your Source to Learn How To Become a Better Programmer.
+    * [Code Chefs](https://www.codechefs.dev/) Hungry Web Developer Podcast.
 
 * Portuguese
     * [Pizza de Dados](https://pizzadedados.com/)
