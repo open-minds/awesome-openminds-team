@@ -75,6 +75,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Gitpod](https://www.gitpod.io/pricing/) Students get the Unlimited plan for €8 per month.
 * [Figma](https://www.figma.com/education/) Figma is a design and prototyping app. Students get a special education plan for free.
 * [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
+* [Free for dev](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
