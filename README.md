@@ -362,3 +362,4 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Pizza de Dados](https://pizzadedados.com/)
     * [Hipster ponto Tech](https://hipsters.tech/)
     * [Braincast](https://www.b9.com.br/shows/braincast/)
+    * [Devs Cansados](https://anchor.fm/devs-cansados)
