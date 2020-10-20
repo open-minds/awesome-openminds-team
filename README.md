@@ -46,7 +46,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [FrontendMasters](https://frontendmasters.com/)
     * [A Cloud Guru](https://acloudguru.com/)
     * [BitDegree](https://www.bitdegree.org/)
-    
+
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
@@ -63,6 +63,12 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Alura](http://alura.com.br)
     * [Curso Em Video](https://www.cursoemvideo.com/)
     * [Estudonauta](https://www.estudonauta.com/)
+
+* Indonesia
+    * [Codepolitan](https://www.codepolitan.com/) - Website Belajar Coding Bahasa Indonesia
+    * [Sekolah Koding](https://sekolahkoding.com/) - Belajar Programming, Mulai dari Nol
+    * [Baledemy](https://baledemy.com/) - Belajar Online Website, Desain Grafis Dan Digital Marketing
+    * [Belajarpython](https://belajarpython.com/) - Situs Open Source Tutorial Pemrograman Python Bahasa Indonesia
 
 ## Freebies for students
 *Because we love you*
@@ -139,8 +145,12 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Mobbin](https://mobbin.design/patterns): Inspiration
     * [Coolors](https://coolors.co/): Color palette generator for web design
     * [color Hunt](https://colorhunt.co/): color palette available which are used by many web designers.
+
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
+
+* Indonesia
+    * [Build With Angga](https://buildwithangga.com/): Coding (UI/UX), Design
 
 ### eBooks
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books
@@ -163,6 +173,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
 * [C FR](https://drive.google.com/open?id=0B1IcqtFWVMxMOGMxdjZQc0lxajQ)
 * [Python FR](https://drive.google.com/file/d/1MCRitlnWT6TpqVdUVyHfqDF3YhPXo8Kr/view)
+* [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf)
+* [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
 
 ### Geeky websites
 * [Scotch.io](https://scotch.io)
@@ -175,7 +187,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [The list for web designers](https://www.designerslist.info/) A complete toolkit for web designers, wireframes, tutorials, blogs, tools, stock photos, fonts, color schemes, icons...
 
 #### Challenges
-   * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year. 
+   * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year.
    * [Hacker Rank](https://www.hackerrank.com/) : a platform for beginners to pros with tutorials and editorials . best for getting started with programming.
    * [GUVI](https://www.guvi.in/)
    * [Hacker Earth](https://www.hackerearth.com/)
@@ -223,9 +235,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
     * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
     * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
-    
-    
-    
+
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
     * [The new Boston](https://www.youtube.com/user/thenewboston)
