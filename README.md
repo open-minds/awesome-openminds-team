@@ -65,10 +65,10 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Estudonauta](https://www.estudonauta.com/)
 
 * Indonesia
-    * [Codepolitan](https://www.codepolitan.com/)
-    * [Sekolah Koding](https://sekolahkoding.com/)
-    * [Baledemy](https://baledemy.com/)
-    * [Belajarpython](https://belajarpython.com/)
+    * [Codepolitan](https://www.codepolitan.com/) - Website Belajar Coding Bahasa Indonesia
+    * [Sekolah Koding](https://sekolahkoding.com/) - Belajar Programming, Mulai dari Nol
+    * [Baledemy](https://baledemy.com/) - Belajar Online Website, Desain Grafis Dan Digital Marketing
+    * [Belajarpython](https://belajarpython.com/) - Situs Open Source Tutorial Pemrograman Python Bahasa Indonesia
 
 ## Freebies for students
 *Because we love you*
@@ -235,8 +235,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
     * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
     * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
-
-
 
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
