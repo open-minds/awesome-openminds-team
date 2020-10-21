@@ -106,6 +106,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Ency education](http://www.univ.ency-education.com/)
 vous trouverez sur cette plateform des cours et examens qui vous accompagnerons tout au long de votre cursus (Math ou Informatique )
 * [Université en ligne](http://uel.unisciel.fr/) Coherent selection of resources & Multimedia for students.
+* [Brilliant](https://brilliant.org/) Build quantitative skills in math, science, and computer science with fun and challenging interactive explorations.
 
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](https://johnnylists.com/post/125433243333/22-websites-to-teach-you-how-to-code)
@@ -349,6 +350,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Grasshopper](https://grasshopper.codes/)
 * [&lt;enki/&gt;](https://enki.com/join/Fcmam5) The #1 app to level up data science and technical skills (available on [iOS](https://itunes.apple.com/nl/app/enki-coding-learn-to-code/id993753145) and [Android](https://play.google.com/store/apps/details?id=com.enki.insights))
 * [Dcoder](https://dcoder.tech/): Next Gen Coding... (Available on [Android](https://play.google.com/store/apps/details?id=com.paprbit.dcoder) & [iOS](https://apps.apple.com/us/app/dcoder-code-compiler-ide/id1488496978))
+* [CamScanner](https://www.camscanner.com/user/download)
+* [Brilliant] learn computer science with fun on [iOS](https://apps.apple.com/us/app/brilliant-solve-learn-grow/id913335252) & [Android](https://play.google.com/store/apps/details?id=org.brilliant.android&hl=en_GB&gl=US)
 
 ### Collaboration tools
 * [Codeshare](http://codeshare.io/)
