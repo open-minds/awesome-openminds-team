@@ -137,6 +137,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
 * [S4A](http://s4a.cat/) Based on Scratch, learn, teach your kids Arduino
+* [Krita](https://krita.org/en/) An end-to-end solution for creating digital art files
 
 ### Design
 * English
