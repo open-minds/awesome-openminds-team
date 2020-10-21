@@ -349,6 +349,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Grasshopper](https://grasshopper.codes/)
 * [&lt;enki/&gt;](https://enki.com/join/Fcmam5) The #1 app to level up data science and technical skills (available on [iOS](https://itunes.apple.com/nl/app/enki-coding-learn-to-code/id993753145) and [Android](https://play.google.com/store/apps/details?id=com.enki.insights))
 * [Dcoder](https://dcoder.tech/): Next Gen Coding... (Available on [Android](https://play.google.com/store/apps/details?id=com.paprbit.dcoder) & [iOS](https://apps.apple.com/us/app/dcoder-code-compiler-ide/id1488496978))
+* [Brilliant](https://brilliant.org/): Learn computer science with fun [iOS](https://apps.apple.com/us/app/brilliant-solve-learn-grow/id913335252) & [Android](https://play.google.com/store/apps/details?id=org.brilliant.android&hl=en_GB&gl=US)
 
 ### Collaboration tools
 * [Codeshare](http://codeshare.io/)
