@@ -205,16 +205,17 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code): The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 
 
-#### CTF(Capture The Flag- Security Challenges)
-   * [Root Me](https://www.root-me.org/)
-   * [HACKER101](https://ctf.hacker101.com/)
-   * [picoCTF](https://picoctf.org/)
-   * [Echo CTF](https://echoctf.com/)
-   * [Over The Wire](https://overthewire.org/wargames/)
+#### CTF (Capture The Flag - Security Challenges)
+   * [Root Me](https://www.root-me.org/): a platform for everyone to test and improve knowledge in computer security and hacking.
+   * [HACKER101](https://ctf.hacker101.com/): a free class for web security.
+   * [picoCTF](https://picoctf.org/): a free computer security game for middle and high school students.
+   * [Echo CTF](https://echoctf.com/): is a pioneer computer security framework, a Cyber Range developed by Echothrust Solutions for running security related competitions (CTFs) and trainings on real IT infrastructure.
+   * [Over The Wire](https://overthewire.org/wargames/): offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+   * [CTFtime](https://ctftime.org/): Capture The Flag, CTF teams, CTF ratings, CTF archive, CTF writeups.
 
 #### Information Security (CTF & Hacking Platforms)
-   * [HackTheBox](https://www.hackthebox.eu/)
-   * [VulnHub](https://www.vulnhub.com/)
+   * [HackTheBox](https://www.hackthebox.eu/): An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs.
+   * [VulnHub](https://www.vulnhub.com/): provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks.
    * [Awesome Curated List of Environments and Platforms for Hacking and CTFs!](https://mrtaharamine.blogspot.com/2018/02/hacking-environments-and-platforms.html)
    * [TryHackMe](https://tryhackme.com/) :: A wonderful learning platform for Cyber Security ethusiasts with dedicated Virtual Machines and fun challenges.
 
