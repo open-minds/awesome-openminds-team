@@ -266,6 +266,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw):He mostly uploads videos on  Vue and does collaboration with other creators too.
     * [this.stephie](https://www.youtube.com/channel/UCr8BLoBSZtmVr31UEfCiQfA):A wonderful female content creator, especially posts about Vue.js
     * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner.
+    * [Academind](https://www.youtube.com/c/Academind): Academind is a programming-oriented channel maintained by Maximilian Schwarzmüller and Manuel Lorenz.
 
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
