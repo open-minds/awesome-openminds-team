@@ -83,6 +83,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Figma](https://www.figma.com/education/) Figma is a design and prototyping app. Students get a special education plan for free.
 * [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
 * [Free for dev](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+* [Tableau for Students](https://www.tableau.com/academic/students) Get a free license to Tableau's data visualization software!
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
