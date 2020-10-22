@@ -47,7 +47,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [A Cloud Guru](https://acloudguru.com/)
     * [BitDegree](https://www.bitdegree.org/)
     * [Thinkster](https://thinkster.io/)
-    
+
 * Arabic
     * [Nadrus](http://nadrus.com/)
     * [Coursat](http://www.coursat.org/)
@@ -65,6 +65,12 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Curso Em Video](https://www.cursoemvideo.com/)
     * [Estudonauta](https://www.estudonauta.com/)
 
+* Indonesia
+    * [Codepolitan](https://www.codepolitan.com/) - Website Belajar Coding Bahasa Indonesia
+    * [Sekolah Koding](https://sekolahkoding.com/) - Belajar Programming, Mulai dari Nol
+    * [Baledemy](https://baledemy.com/) - Belajar Online Website, Desain Grafis Dan Digital Marketing
+    * [Belajarpython](https://belajarpython.com/) - Situs Open Source Tutorial Pemrograman Python Bahasa Indonesia
+
 ## Freebies for students
 *Because we love you*
 * [Github Student pack](https://education.github.com/)
@@ -76,6 +82,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Gitpod](https://www.gitpod.io/pricing/) Students get the Unlimited plan for €8 per month.
 * [Figma](https://www.figma.com/education/) Figma is a design and prototyping app. Students get a special education plan for free.
 * [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
+* [Free for dev](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
@@ -102,7 +109,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Université en ligne](http://uel.unisciel.fr/) Coherent selection of resources & Multimedia for students.
 
 ### Learn to code
-* [Johny Lists: 22 Websites to Teach You How to Code](http://johnnylists.com/22-websites-to-teach-you-how-to-code/)
+* [Johny Lists: 22 Websites to Teach You How to Code](https://johnnylists.com/post/125433243333/22-websites-to-teach-you-how-to-code)
 * [Tutorialspoint](www.tutorialspoint.com/)
 * [Enlight](https://enlight.nyc/) learn to </> by building projects
 * [The Odin Project](http://www.theodinproject.com/)
@@ -118,6 +125,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [GFG:Geek For Geeks](https://www.geeksforgeeks.org/): one platform to learn DSA, programming languages, preparing for gate and for all cs students
 * [Code Monk](https://www.hackerearth.com/practice/codemonk/): Codemonk is a curated list of topics to help you improve your skills in the fundamental concepts of programming
 * [JetBrains Academy](https://hyperskill.org/): Coding challenges and projects
+* [Codeasy.net](https://codeasy.net/): story based learning of C# that requires programming skills to navigate your work through.
+* [ELIS e-learning portal](https://free.aicte-india.org/ms-products.php): Over 1526 **free** course modules from Microsoft in collaboration with AICTE.
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/): platform to learn Web Design, DSA, ML, etc.
 * [Full Stack Open 2020](https://fullstackopen.com/en/): Modern Web Development (Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
 
@@ -137,8 +146,12 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Mobbin](https://mobbin.design/patterns): Inspiration
     * [Coolors](https://coolors.co/): Color palette generator for web design
     * [color Hunt](https://colorhunt.co/): color palette available which are used by many web designers.
+
 * Arabic
     * [Mostafa Makram](https://www.youtube.com/channel/UCRuf3R3TBHYcnnYIPvuwQmQ): Photoshop
+
+* Indonesia
+    * [Build With Angga](https://buildwithangga.com/): Coding (UI/UX), Design
 
 ### eBooks
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books
@@ -160,6 +173,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 #### Programming eBooks
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
 * [C FR](https://drive.google.com/open?id=0B1IcqtFWVMxMOGMxdjZQc0lxajQ)
+* [Python FR](https://drive.google.com/file/d/1MCRitlnWT6TpqVdUVyHfqDF3YhPXo8Kr/view)
+* [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf)
+* [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
 
 ### Geeky websites
 * [Scotch.io](https://scotch.io)
@@ -172,7 +188,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [The list for web designers](https://www.designerslist.info/) A complete toolkit for web designers, wireframes, tutorials, blogs, tools, stock photos, fonts, color schemes, icons...
 
 #### Challenges
-   * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year. 
+   * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year.
    * [Hacker Rank](https://www.hackerrank.com/) : a platform for beginners to pros with tutorials and editorials . best for getting started with programming.
    * [GUVI](https://www.guvi.in/)
    * [Hacker Earth](https://www.hackerearth.com/)
@@ -181,6 +197,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Rosalind](http://rosalind.info/problems/list-view/): A platform for learning bioinformatics through problem solving.
    * [CoderByte](https://coderbyte.com/): An alternative for HackerRank. Also, it is the #1 website for technical interview prep.
    * [Codechef](https://www.codechef.com/): Hosts monthly competitve programming competitions, and has a vast variety of practice problems.
+   * [CodeSignal](https://app.codesignal.com/): A competitive platform for programmers
    * [codeforces](https://www.codeforces.com/): best for competitive programming
    * [codingame](https://www.codingame.com/): Coding game and programming challenges to code better
    * [Timus Online Judge](http://acm.timus.ru/): An online archive for programming problems and automatic judging system.
@@ -220,9 +237,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
     * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
     * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
-    
-    
-    
+
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
     * [The new Boston](https://www.youtube.com/user/thenewboston)
@@ -249,6 +264,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Adam Wathan](https://www.youtube.com/c/AdamWathan): He is creator of Utility-based CSS Framework Tailwind CSS and uploads videos regarding the designing of sites with TailWind CSS.
     * [Program with Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw):He mostly uploads videos on  Vue and does collaboration with other creators too.
     * [this.stephie](https://www.youtube.com/channel/UCr8BLoBSZtmVr31UEfCiQfA):A wonderful female content creator, especially posts about Vue.js
+    * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner.
+
 * Français
     * [Grafikart.fr](https://www.youtube.com/user/grafikarttv)
     * [LES TEACHERS DU NET](https://www.youtube.com/user/hounwanou1993)
@@ -301,8 +318,9 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
   * [Rider](https://www.jetbrains.com/rider/) (C#/ASP.NET/F#)
   * [RubyMine](https://www.jetbrains.com/ruby/) (Ruby)
   * [DataGrip](https://www.jetbrains.com/datagrip/) (Databases)
-  * [CodeBlocks](http://codeblocks.org/)
-  * [Repl.it](https://repl.it/)
+* [CodeBlocks](http://codeblocks.org/)
+* [Repl.it](https://repl.it/)
+* [Visual Studio](https://visualstudio.microsoft.com/)
 
 ### Text editors
 * [Atom](http://atom.io/)
@@ -313,6 +331,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [VSCodium](https://github.com/VSCodium/vscodium) Free/Libre Open Source Software Binaries of VSCode
 * [MonoDevelop](http://www.monodevelop.com/download/)
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
+
+### Extensions for Text editors
+* **Visual Studio Code**
+  * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ### Online Text editors
 * [Regular Expressions 101](https://regex101.com/): For testing Regex
@@ -328,6 +350,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Grasshopper](https://grasshopper.codes/)
 * [&lt;enki/&gt;](https://enki.com/join/Fcmam5) The #1 app to level up data science and technical skills (available on [iOS](https://itunes.apple.com/nl/app/enki-coding-learn-to-code/id993753145) and [Android](https://play.google.com/store/apps/details?id=com.enki.insights))
 * [Dcoder](https://dcoder.tech/): Next Gen Coding... (Available on [Android](https://play.google.com/store/apps/details?id=com.paprbit.dcoder) & [iOS](https://apps.apple.com/us/app/dcoder-code-compiler-ide/id1488496978))
+* [Brilliant](https://brilliant.org/): Learn computer science with fun [iOS](https://apps.apple.com/us/app/brilliant-solve-learn-grow/id913335252) & [Android](https://play.google.com/store/apps/details?id=org.brilliant.android&hl=en_GB&gl=US)
 
 ### Collaboration tools
 * [Codeshare](http://codeshare.io/)
@@ -353,3 +376,4 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Pizza de Dados](https://pizzadedados.com/)
     * [Hipster ponto Tech](https://hipsters.tech/)
     * [Braincast](https://www.b9.com.br/shows/braincast/)
+    * [Devs Cansados](https://anchor.fm/devs-cansados)
