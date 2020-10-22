@@ -20,6 +20,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Tools and Apps](#tools-and-apps)
         * [IDEs](#ides)
         * [Text editors](#text-editors)
+        * [Design software](#design-software)
         * [Mobile Apps](#mobile-apps)
         * [Collaboration tools](#collaboration-tools)
         * [Podcasts](#podcasts)
@@ -335,7 +336,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * **Visual Studio Code**
   * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
   
-### Design
+### Design Software
 * [Krita](https://krita.org/en/) An end-to-end solution for creating digital art files
 
 ### Online Text editors
