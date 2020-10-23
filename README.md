@@ -47,6 +47,9 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [FrontendMasters](https://frontendmasters.com/)
     * [A Cloud Guru](https://acloudguru.com/)
     * [BitDegree](https://www.bitdegree.org/)
+    * [Cybrary](https://www.cybrary.it/)
+    * [NPTEL](https://nptel.ac.in/)
+    * [SoloLearn](https://www.sololearn.com/)
 
 * Arabic
     * [Nadrus](http://nadrus.com/)
@@ -84,6 +87,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
 * [Free for dev](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 * [Tableau for Students](https://www.tableau.com/academic/students) Get a free license to Tableau's data visualization software!
+* [Aws Educate](https://aws.amazon.com/education/awseducate/) AWS Educate is Amazon's global initiative to provide students comprehensive resources for building skills in the cloud.
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
