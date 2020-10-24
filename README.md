@@ -312,6 +312,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Play Chess](https://github.com/timburgan/timburgan)
 * A GitHub Repository where we can go through a whole Computer Science Degree.
    * [Open Source Computer Science](https://github.com/ForrestKnight/open-source-cs)
+* An awesome Data Science repository to learn and apply for real world problems.
+   * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 
 ## Tools and Apps
 
