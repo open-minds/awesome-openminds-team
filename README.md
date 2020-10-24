@@ -28,7 +28,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 ----
 
 ## MOOC websites
-*Platformes for learning awesome stuffs online*
+*Platforms for learning awesome stuffs online*
 * English
     * [Udacity](http://udacity.com/)
     * [Free Code Camp](http://freecodecamp.com/)
