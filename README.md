@@ -342,6 +342,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 ### Extensions for Text editors
 * **Visual Studio Code**
   * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+  * [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
 ### Design Software
 * [Krita](https://krita.org/en/) An end-to-end solution for creating digital art files
