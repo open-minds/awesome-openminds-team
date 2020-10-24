@@ -28,7 +28,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 ----
 
 ## MOOC websites
-*Platformes for learning awesome stuffs online*
+*Platforms for learning awesome stuffs online*
 * English
     * [Udacity](http://udacity.com/)
     * [Free Code Camp](http://freecodecamp.com/)
@@ -47,6 +47,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [FrontendMasters](https://frontendmasters.com/)
     * [A Cloud Guru](https://acloudguru.com/)
     * [BitDegree](https://www.bitdegree.org/)
+    * [Thinkster](https://thinkster.io/)
 
 * Arabic
     * [Nadrus](http://nadrus.com/)
@@ -84,8 +85,9 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
 * [Free for dev](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 * [Tableau for Students](https://www.tableau.com/academic/students) Get a free license to Tableau's data visualization software!
-* [Shodan Membership](https://help.shodan.io/the-basics/account-faq) Get a free membership + Educational API plan for the [Shodan](https://www.shodan.io/) search engine 
-* [CloudApp](https://www.getcloudapp.com/education) Cloud App is an instant cloud based GIF, screenshots, and video sharing product for collaboration. Students get a free pro account. 
+* [Shodan Membership](https://help.shodan.io/the-basics/account-faq) Get a free membership + Educational API plan for the [Shodan](https://www.shodan.io/) search engine
+* [CloudApp](https://www.getcloudapp.com/education) Cloud App is an instant cloud based GIF, screenshots, and video sharing product for collaboration. Students get a free pro account.
+
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
@@ -137,6 +139,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
 * [Data Science : R Basics](https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+2T2019): Course about R basics presented by Harvard University
 * [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning): Learn the core ideas in machine learning, and build your first models.
+* [Data quest](https://https://www.dataquest.io/): From intro do advanced data science and analytics content in short lessons.
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
@@ -261,8 +264,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
     * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
     * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
-
-    * [Code with harry <<Hindi>>](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [Fun Fun Function](https://www.youtube.com/c/funfunfunction) A fun, personal and down-to-earth show about programming
+    * [Code with harry (Hindi)](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
     * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
     * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) Awesome Tutorials for Python, AI for games and Machine Learning basic
     * [OnlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Tutorials for Front-end, creative Front-End tutorials using HTML/CSS/JS.
@@ -311,6 +314,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Play Chess](https://github.com/timburgan/timburgan)
 * A GitHub Repository where we can go through a whole Computer Science Degree.
    * [Open Source Computer Science](https://github.com/ForrestKnight/open-source-cs)
+* An awesome Data Science repository to learn and apply for real world problems.
+   * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 
 ## Tools and Apps
 
@@ -341,7 +346,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 ### Extensions for Text editors
 * **Visual Studio Code**
   * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-  
+  * [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+
 ### Design Software
 * [Krita](https://krita.org/en/) An end-to-end solution for creating digital art files
 
