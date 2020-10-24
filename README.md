@@ -262,8 +262,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Open Source Developer Advocate](https://www.youtube.com/c/eddiejaoude/), BELIEVES OPEN SOURCE IS FOR EVERYONE! YES YOU!
     * [Techie-Workshops](https://www.youtube.com/c/PraveenKumarPurush/), Techie-Workshops by Praveen Kumar
     * [LetsUpgrade](https://www.youtube.com/c/LetsUpgrade/), A Technology Community for Career Acceleration
-
-    * [Code with harry <<Hindi>>](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
+    * [Fun Fun Function](https://www.youtube.com/c/funfunfunction) A fun, personal and down-to-earth show about programming
+    * [Code with harry (Hindi)](https://www.youtube.com/c/CodeWithHarry), Tutorials for python, java, javascript. Helps beginners in making their projects with easiness. Every solution is provided and contains every field of computer science.
     * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Tuturials for learning HTML, Git & more
     * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) Awesome Tutorials for Python, AI for games and Machine Learning basic
     * [OnlineTutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Tutorials for Front-end, creative Front-End tutorials using HTML/CSS/JS.
