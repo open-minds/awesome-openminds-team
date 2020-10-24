@@ -84,6 +84,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
 * [Free for dev](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 * [Tableau for Students](https://www.tableau.com/academic/students) Get a free license to Tableau's data visualization software!
+* [Shodan Membership](https://help.shodan.io/the-basics/account-faq) Get a free membership + Educational API plan for the [Shodan](https://www.shodan.io/) search engine 
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
