@@ -84,7 +84,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Notion](https://www.notion.so/students) Notion is a workspace for your tasks, notes and more. It is free for all students.
 * [Free for dev](https://free-for.dev/) This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 * [Tableau for Students](https://www.tableau.com/academic/students) Get a free license to Tableau's data visualization software!
-* [Shodan Membership](https://help.shodan.io/the-basics/account-faq) Get a free membership + Educational API plan for the [Shodan](https://www.shodan.io/) search engine 
+* [Shodan Membership](https://help.shodan.io/the-basics/account-faq) Get a free membership + Educational API plan for the [Shodan](https://www.shodan.io/) search engine
 
 ## Opportunities and international exchange programs
 * [Aiesec](https://aiesec.org/) Find international internships, volunteering opportunities.
@@ -136,6 +136,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Data Camp](https://www.datacamp.com/): The first and foremost leader in Data Science Education.
 * [Data Science : R Basics](https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+2T2019): Course about R basics presented by Harvard University
 * [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning): Learn the core ideas in machine learning, and build your first models.
+* [Data quest](https://https://www.dataquest.io/): From intro do advanced data science and analytics content in short lessons.
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
@@ -340,7 +341,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 ### Extensions for Text editors
 * **Visual Studio Code**
   * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-  
+
 ### Design Software
 * [Krita](https://krita.org/en/) An end-to-end solution for creating digital art files
 
