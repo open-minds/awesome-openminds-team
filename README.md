@@ -347,6 +347,8 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * **Visual Studio Code**
   * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
   * [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  * [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 ### Design Software
 * [Krita](https://krita.org/en/) An end-to-end solution for creating digital art files
