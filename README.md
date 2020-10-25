@@ -352,6 +352,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 
 ### Design Software
 * [Krita](https://krita.org/en/) An end-to-end solution for creating digital art files
+* [Tilt Brush](https://www.tiltbrush.com/) Tilt Brush lets you paint in 3D space with virtual reality.
 
 ### Online Text editors
 * [Regular Expressions 101](https://regex101.com/): For testing Regex
@@ -375,6 +376,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Kobra.io](https://kobra.io/)
 * [A web whiteboard](https://awwapp.com/) A touch-friendly online whiteboard (tableau)
 * [Glitch (GoMix)](https://glitch.com/) Build your applications online, with real collaboration
+* [Unity Teams](https://unity.com/products/unity-teams) It makes it simple to save, share and sync your Unity projects with anyone.
 
 ### Podcasts
 * English
