@@ -21,6 +21,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [IDEs](#ides)
         * [Text editors](#text-editors)
         * [Design software](#design-software)
+        * [Game Development Software](#game-development-software)
         * [Mobile Apps](#mobile-apps)
         * [Collaboration tools](#collaboration-tools)
         * [Podcasts](#podcasts)
@@ -332,7 +333,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [CodeBlocks](http://codeblocks.org/)
 * [Repl.it](https://repl.it/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
-* [GB Studio](https://www.gbstudio.dev) GB Studio is a free and easy to use retro adventure game creator for Game Boy available for Mac, Linux and Windows.
 
 ### Text editors
 * [Atom](http://atom.io/)
@@ -354,6 +354,12 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 ### Design Software
 * [Krita](https://krita.org/en/) An end-to-end solution for creating digital art files
 * [Tilt Brush](https://www.tiltbrush.com/) Tilt Brush lets you paint in 3D space with virtual reality.
+
+### Game Development Software
+* [GB Studio](https://www.gbstudio.dev) GB Studio is a free and easy to use retro adventure game creator for Game Boy available for Mac, Linux and Windows.
+* [Godot Engine](https://godotengine.org) Godot is completely free and open-source under the very permissive MIT license.
+* [BuildBox](https://www.buildbox.com) No-Code mobile game development.
+
 
 ### Online Text editors
 * [Regular Expressions 101](https://regex101.com/): For testing Regex
