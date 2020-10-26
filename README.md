@@ -332,6 +332,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [CodeBlocks](http://codeblocks.org/)
 * [Repl.it](https://repl.it/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
+* [GB Studio](https://www.gbstudio.dev) GB Studio is a free and easy to use retro adventure game creator for Game Boy available for Mac, Linux and Windows.
 
 ### Text editors
 * [Atom](http://atom.io/)
