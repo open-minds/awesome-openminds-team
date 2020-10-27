@@ -24,6 +24,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
         * [Mobile Apps](#mobile-apps)
         * [Collaboration tools](#collaboration-tools)
         * [Podcasts](#podcasts)
+        * [Learn Languages](#Learn-Languages)
 
 ----
 
@@ -176,10 +177,6 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [B-OK](http://b-ok.org/)
 * [forcoder.org](http://forcoder.org/) IT ebooks and e-Learning videos for download
 * [Packtpub](https://www.packtpub.com/) Free ebook available daily
-
-### Learn Languages
-* [Duolingo](https://www.duolingo.com/): The world's best way to learn a language!
-* [Learn a Language](https://www.learnalanguage.com/): Learn a language with hundreds of free lessons
 
 #### Programming eBooks
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
@@ -398,3 +395,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Hipster ponto Tech](https://hipsters.tech/)
     * [Braincast](https://www.b9.com.br/shows/braincast/)
     * [Devs Cansados](https://anchor.fm/devs-cansados)
+
+### Learn Languages
+* [Duolingo](https://www.duolingo.com/): The world's best way to learn a language!
+* [Learn a Language](https://www.learnalanguage.com/): Learn a language with hundreds of free lessons
