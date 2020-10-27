@@ -141,6 +141,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Data Science : R Basics](https://courses.edx.org/courses/course-v1:HarvardX+PH125.1x+2T2019): Course about R basics presented by Harvard University
 * [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning): Learn the core ideas in machine learning, and build your first models.
 * [Data quest](https://https://www.dataquest.io/): From intro do advanced data science and analytics content in short lessons.
+* [Neural Networks from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI): A youtube playlist to learn neural networks from scratch using python
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
@@ -194,6 +195,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [uxdesign.cc](https://uxdesign.cc/) User Experience, Usability, Product Design
 * [OverAPI.com](http://overapi.com/) Collecting All Cheat Sheets
 * [The list for web designers](https://www.designerslist.info/) A complete toolkit for web designers, wireframes, tutorials, blogs, tools, stock photos, fonts, color schemes, icons...
+* [Dev community](https://dev.to/)
 
 #### Challenges
    * [Leet Code](https://leetcode.com/problemset/algorithms/): A website with more than 1500 programming questions. Organizes weekly and biweekly contests throughout the year.
