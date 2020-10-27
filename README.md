@@ -113,7 +113,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [Ency education](http://www.univ.ency-education.com/)
 vous trouverez sur cette plateform des cours et examens qui vous accompagnerons tout au long de votre cursus (Math ou Informatique )
 * [Université en ligne](http://uel.unisciel.fr/) Coherent selection of resources & Multimedia for students.
-* [MIT CSE Lectures] (https://www.youtube.com/c/mitocw/playlists?view=50&sort=dd&shelf_id=5) Cours complets d'informatique du MIT.
+* [MIT CSE Lectures](https://www.youtube.com/c/mitocw/playlists?view=50&sort=dd&shelf_id=5) Cours complets d'informatique du MIT.
 
 ### Learn to code
 * [Johny Lists: 22 Websites to Teach You How to Code](https://johnnylists.com/post/125433243333/22-websites-to-teach-you-how-to-code)
