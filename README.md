@@ -177,6 +177,10 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [forcoder.org](http://forcoder.org/) IT ebooks and e-Learning videos for download
 * [Packtpub](https://www.packtpub.com/) Free ebook available daily
 
+### Learn Languages
+* [Duolingo](https://www.duolingo.com/): The world's best way to learn a language!
+* [Learn a Language](https://www.learnalanguage.com/): Learn a language with hundreds of free lessons
+
 #### Programming eBooks
 * [JAVA FR](https://drive.google.com/open?id=0B1IcqtFWVMxMRXhEOWs3b1NSd3c)
 * [C FR](https://drive.google.com/open?id=0B1IcqtFWVMxMOGMxdjZQc0lxajQ)
