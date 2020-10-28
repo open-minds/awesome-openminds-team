@@ -356,9 +356,15 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Tilt Brush](https://www.tiltbrush.com/) Tilt Brush lets you paint in 3D space with virtual reality.
 
 ### Game Development Software
+* [Unity] (unity3d.com) Unity is a free, cross-platform, widely used and most popular 3d engine.
 * [GB Studio](https://www.gbstudio.dev) GB Studio is a free and easy to use retro adventure game creator for Game Boy available for Mac, Linux and Windows.
 * [Godot Engine](https://godotengine.org) Godot is completely free and open-source under the very permissive MIT license.
 * [BuildBox](https://www.buildbox.com) No-Code mobile game development.
+* [LÖVE](https://love2d.org) LÖVE is a framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, Mac OS X, Linux, Android and iOS.
+* [Defold](https://defold.com) Defold is a free to use, source available, game engine with a developer-friendly license. Defold is owned and developed by the Defold Foundation.
+* [Cocos2d-x](https://www.cocos.com/en/cocos2dx) Cocos2d-x is a mature open source cross-platform game development framework that supports 2D and 3D game creation.
+* [Phaser](http://phaser.io) Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* [threejs](https://threejs.org) The aim of the project is to create an easy to use, lightweight, 3D library with a default WebGL renderer. 
 
 
 ### Online Text editors
