@@ -248,6 +248,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
     * [Ali Hamdi](https://www.youtube.com/channel/UChiajEj7cSVoY0k2FDlM2zA) Web developement & web design tutorials
     * [Hassouna academy](https://www.youtube.com/user/HassounaAcademy/playlists): Everything related to computer and its sciences, web design and software
     * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) programming tutorials
+    * [MIT CSE Lectures](https://www.youtube.com/c/mitocw/playlists?view=50&sort=dd&shelf_id=5) Cours complets d'informatique du MIT.
 
 * English
     * [Derek Banas](https://www.youtube.com/user/derekbanas)
