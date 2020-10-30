@@ -72,6 +72,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Sekolah Koding](https://sekolahkoding.com/) - Belajar Programming, Mulai dari Nol
     * [Baledemy](https://baledemy.com/) - Belajar Online Website, Desain Grafis Dan Digital Marketing
     * [Belajarpython](https://belajarpython.com/) - Situs Open Source Tutorial Pemrograman Python Bahasa Indonesia
+    * [BuildWithAnnga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan Startup/perusahaan IT terbesar di dunia
 
 ## Freebies for students
 *Because we love you*
