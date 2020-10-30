@@ -49,6 +49,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [A Cloud Guru](https://acloudguru.com/)
     * [BitDegree](https://www.bitdegree.org/)
     * [Thinkster](https://thinkster.io/)
+    * [The Coding Train](https://thecodingtrain.com/)
+
 
 * Arabic
     * [Nadrus](http://nadrus.com/)
@@ -215,6 +217,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [InterviewBit](https://www.interviewbit.com/): Similar to LeetCode and HackerRank with lots of free questions and contests.
    * [SPOJ](https://www.spoj.com/): Sphere Online Judge (SPOJ) is an online judge system with over 640,000 registered users and over 20,000 problems.
    * [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code): The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
+   * [Edabit](http://www.edabit.com): Learn to code with fun, bite-sized challenges. It's like Duolingo for learning to code.
 
 
 #### CTF (Capture The Flag - Security Challenges)
