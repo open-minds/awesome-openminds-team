@@ -300,6 +300,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
    * [Codeshow](https://www.youtube.com/user/brunovegan)
    * [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
    * [Linux Tips](https://www.youtube.com/user/linuxtipscanal)
+   * [RafaelGomex](https://www.youtube.com/c/RafaelGomex)
 
 ### Good Social media pages and groups
 * Facebook pages
