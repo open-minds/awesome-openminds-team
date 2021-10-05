@@ -51,7 +51,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [BitDegree](https://www.bitdegree.org/)
     * [Thinkster](https://thinkster.io/)
     * [The Coding Train](https://thecodingtrain.com/)
-
+    * [EnvatoTuts+](https://code.tutsplus.com/) 
 
 * Arabic
     * [Nadrus](http://nadrus.com/)
