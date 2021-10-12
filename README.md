@@ -146,6 +146,7 @@ vous trouverez sur cette plateform des cours et examens qui vous accompagnerons 
 * [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning): Learn the core ideas in machine learning, and build your first models.
 * [Data quest](https://https://www.dataquest.io/): From intro do advanced data science and analytics content in short lessons.
 * [Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3): A youtube playlist to learn neural networks from scratch using python
+* [Annotated PyTorch Paper Implementations](https://nn.labml.ai/): This is a collection of simple PyTorch implementations of neural networks and related algorithms documented with explanations and the website renders these as side-by-side formatted notes.
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
