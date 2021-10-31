@@ -69,6 +69,8 @@ A collection of awesome useful and awesome links, resources and shiny things for
     * [Alura](http://alura.com.br)
     * [Curso Em Video](https://www.cursoemvideo.com/)
     * [Estudonauta](https://www.estudonauta.com/)
+    * [IFRS](https://moodle.ifrs.edu.br/)
+    * [BrasilMaisTI](http://brasilmaisdigital.org.br/)
 
 * Indonesia
     * [Codepolitan](https://www.codepolitan.com/) - Website Belajar Coding Bahasa Indonesia
